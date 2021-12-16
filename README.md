@@ -5,7 +5,6 @@
 
 - Computer Science Essentials & Basics
 - UML & Modeling
-- Software Engineering Introduction
 - Necessary Tools 
 - Dive Into Technology & Tools - PHP & Laravel
 - Dive Into More Computer Science Essentials & Basics
@@ -13,9 +12,17 @@
 
 ## Computer Science Essentials & Basics
 
-Before you start, you should know that you are going to learn a lot of things about computer science.
+#### Importance:
+_Before you start, you should know that you are going to learn a lot of things about computer science._
 
 **_DON'T GO AND RUSH TO A TECHNOLOGY!_**
+
+#### Study Type:
+الجزء ده مش هتذاكره بالتتابع، المفروض تذاكرهم مع بعض، بمعني إنك بدل ما تخلص جزء جزء، إنك تخلص كل يوم محاضرة مثلا أو فيديو من كل جزء.
+
+مثلا تخلص محاضرة انترو علي محاضرة داتابيز علي فيديو من الداتا ستراكشر وهكذا.
+
+
 
 ### Introduction to Computer Science
 There are two great courses, One provided by MIT, the second provided by Harvard
@@ -83,3 +90,39 @@ OR
 ### How Internet Works?
 
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
+
+### UML & Modeling:
+
+#### Importance:
+
+_you should never start coding without first thinking and modeling what you will actually be coding._
+
+#### Videos
+
+1. [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+
+#### Books
+1. [UML Distilled](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
+
+### Development Tools & IDEs
+
+#### Git & GitHub
+1. [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+OR 
+
+1. [Git & GitHub](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+
+#### Editors
+- [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
+
+- [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
+
+
+### Backend Web Technologies & Tools - PHP & Laravel
+
+#### Importance:
+
+_Every software engineer should know how to design and implement software in an organized way and how to make sure that the software is easy to use and easy to maintain._
+
+#### Videos
