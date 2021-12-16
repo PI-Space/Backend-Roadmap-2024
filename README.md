@@ -172,50 +172,30 @@ _Every software engineer should know how to design and implement software in an 
 
 ### Laravel :
 
-#### Beginner Level
+#### Beginner Level - The basics and beyond
 
 ##### Books
+1. [laravel up and running 2nd edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
 
-- laravel up and running 2nd edition
+##### Videos
+1. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
-the best tutorials you will see is at Laracasts.com
-please note :
+After you finish, Watch & Apply in section number 14 in this playlist
+2. [laravel 8 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
-- don't install the latest version of laravel, because there are some improvements in laravel versions, so the best thing is to follow the tutorials in the same version as the instructor then see what is new in the latter versions
+after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
 
-- some courses at Laracasts require subscription ( if it needs i will mention it and give alternatives but laracasts is the best!)
+3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
-### The basics and beyond
-- https://laracasts.com/series/laravel-6-from-scratch
-### Updates as of 2021/4/1
-- laracasts updated their playlist for laravel 8, but it's not yet completed, i recommend study both toturials to make sure you fully understand the concepts
-- https://laracasts.com/series/laravel-8-from-scratch
+> After you finish, It's time to finish things on your own with two projects:
 
-after you finish the series you will have to know that is new in laravel 7 and 8 .
+##### Project 1:
+Use  this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as reference to system requirements and build your own system.
 
-these two series are 1-hour long series that will tell you everything new to the framework, so you can stay up to date
+##### Project 2:
+Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
 
-Laravel 7 :
-- https://laracasts.com/series/whats-new-in-laravel-7
-
-Laravel 8 :
-- https://laracasts.com/series/whats-new-in-laravel-8
-
-after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will
-### build an instagram clone ( project playlist )
-- https://www.youtube.com/watch?v=ImtZ5yENzgE
-
-### projects you will apply ( on your own with search and referring to docs ) after finishing the previous
-in the last beginner level you will build a blog website and/or e-business website on your own!!
-consider this as a final beginner task
-you can use this document as reference to system requirements
-
-- https://thescipub.com/pdf/ajeassp.2012.266.274.pdf
-
-or you can use a design template and turn it to a complete website:
-
-example :
-- https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/
+- 
 
 note that admin dashboard is required !!
 
