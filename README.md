@@ -184,9 +184,10 @@ _Every software engineer should know how to design and implement software in an 
 1. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
 After you finish, Watch & Apply in section number 14 in this playlist
+
 2. [laravel 8 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
-after you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
+After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
@@ -197,7 +198,6 @@ Use  this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as refe
 
 ##### Project 2:
 Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
-
 
 > note that admin dashboard is required - you may use [Orchid](https://orchid.software/en/)  or you can use any other dashboard you like.
 
@@ -219,8 +219,6 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 - [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 
-
-
 ##### Read about laravel best practices
     - https://github.com/alexeymezenin/laravel-best-practices
 
@@ -235,8 +233,6 @@ OR
 
 ##### PEST framework:
 1. [Learn Pest](https://www.youtube.com/watch?v=lEvau6CgqPE)
-
-
 
 ##### Building API
 1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
@@ -255,4 +251,10 @@ OR
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
-## Dive Into More Computer Science Essentials & Basics
+## Dive Into More Computer Science Essentials :
+### More Data Structures and Algorithms
+1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+### More Database Systems
+2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+### More Operating Systems
+3. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
