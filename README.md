@@ -256,5 +256,17 @@ OR
 1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
 2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
+3. [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 ### More Operating Systems
-3. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+4. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+## Write Great Software
+
+### Object-Oriented Analysis and Design
+1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+### Design Patterns
+2. [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+### Clean Code & Refactoring
+3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
+4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
+5. [Martin Fowler](https://martinfowler.com/books/)
