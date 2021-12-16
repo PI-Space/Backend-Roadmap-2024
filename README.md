@@ -118,6 +118,24 @@ OR
 
 - [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 
+### Introduction to web development
+
+#### Basics of how the web works
+1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+
+> you don't need to apply in this video.
+
+2. [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY)
+
+
+#### Basics of API and REST architectural style
+1. [REST Architecture](https://www.youtube.com/watch?v=LooL6_chvN4)
+2. [REST Architecture](https://www.youtube.com/watch?v=s7wmiS2mSXY)
+
+
+#### Client-Server style
+1. [Client-Server Architecture ](https://www.youtube.com/watch?v=L5BlpPU_muY)
+2. [Client-Server Architecture ](https://www.youtube.com/watch?v=Zfmk0GtANNs)
 
 ### Backend Web Technologies & Tools - PHP & Laravel
 
@@ -125,4 +143,5 @@ OR
 
 _Every software engineer should know how to design and implement software in an organized way and how to make sure that the software is easy to use and easy to maintain._
 
-#### Videos
+### PHP 
+
