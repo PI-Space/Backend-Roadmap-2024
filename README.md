@@ -11,9 +11,9 @@ ___
 5. Dive Into Technology & Tools - PHP & Laravel 
 6. Dive Into More Computer Science Essentials & Basics 
 7. Write Great Software
-
-## 1. Computer Science Essentials & Basics
 ___
+## 1. Computer Science Essentials & Basics
+
 #### Notes:
 _1. Don't study this section sequentially, study all topics altogether at the same time._
 
@@ -88,9 +88,9 @@ OR
 ### How Internet Works?
 
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
-
-## 2. UML & Modeling:
 ___
+## 2. UML & Modeling:
+
 #### Notes:
 
 _you should never start coding without first thinking and modeling what you will actually be coding._
@@ -101,9 +101,9 @@ _you should never start coding without first thinking and modeling what you will
 
 #### Books
 1. [UML Distilled](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
-
-## 3. Development Tools & IDEs
 ___
+## 3. Development Tools & IDEs
+
 #### Git & GitHub
 1. [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
@@ -115,9 +115,9 @@ OR
 - [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
 
 - [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
-
-## 4. Introduction To Web Development
 ___
+## 4. Introduction To Web Development
+
 ### Basics of how the web works
 1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
@@ -144,9 +144,9 @@ OR
 1. [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
-
-## 5.  Backend Web Technologies  PHP & Laravel
 ___
+## 5.  Backend Web Technologies  PHP & Laravel
+
 
 ### PHP  
 #### Basics
@@ -246,8 +246,9 @@ OR
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
-## 6. Dive Into More Computer Science Essentials :
 ___
+## 6. Dive Into More Computer Science Essentials :
+
 ### More Data Structures and Algorithms
 1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
@@ -256,8 +257,9 @@ ___
 ### More Operating Systems
 4. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
-## 7. Write Great Software
 ___
+## 7. Write Great Software
+
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 ### Design Patterns
