@@ -206,54 +206,49 @@ Build a website to show your cv where you can add your works, services, portfoli
 > now you must have basic understanding to the framework that could get you to the next level
 
 
-### <a href="#intermediate">Intermediate</a>
-now you need to be familiar with some advanced topics such as:
+#### Intermediate Level - Beyond the basics
 
-### Master your editor:
+> now you need to be familiar with some advanced topics such as:
 
-- phpstorm : https://laracasts.com/series/how-to-be-awesome-in-phpstorm
+##### Master your editor:
 
-- Visual studio code : https://laracasts.com/series/visual-studio-code-for-php-developers
+- [Phpstorm]( https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
+
+- [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 
 
 
-### laravel best practices
+##### Read about laravel best practices
     - https://github.com/alexeymezenin/laravel-best-practices
-### testing laravel:
 
-- https://laracasts.com/series/build-a-laravel-app-with-tdd
+##### testing laravel:
+1. [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
 
-needs "laracasts subscription" totally worth it!
+OR
 
-or
+2. [Laravel Testing](https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y)
 
-- https://www.youtube.com/playlist?list=PLpzy7FIRqpGAbkfdxo1MwOS9xjG3O3z1y
+> after you finish those try this framework for easier testing:
 
-after you finish those try this framework for easier testing:
-
-pest framework:
-
-- https://www.youtube.com/watch?v=lEvau6CgqPE
+##### PEST framework:
+1. [Learn Pest](https://www.youtube.com/watch?v=lEvau6CgqPE)
 
 
-### Laravel package development :
+
+##### Building API
+1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
+
+2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+
+##### Laravel package development :
+1. [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
 
-- https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu
+##### Deployment
+1. [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
-### Building API
-- 1- https://www.youtube.com/watch?v=mgdMeXkviy8
+2. [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
-- 2- https://www.youtube.com/watch?v=TTK8uQOjpT0
+##### Useful laravel packages
+1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
-
-### Deployment
-- 1- deploy on digital oceans : https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3
-
-- 2- deploy on shared hosting : https://www.youtube.com/watch?v=6g8G3YQtQt4
-
-### Useful laravel packages
-- https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f
-
-
-now we will finish this phase by this playlist:
