@@ -195,22 +195,15 @@ Use  this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as refe
 ##### Project 2:
 Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
 
-- 
 
-note that admin dashboard is required !!
+> note that admin dashboard is required - you may use [Orchid](https://orchid.software/en/)  or you can use any other dashboard you like.
 
-you can use any admin dashboard (mentioned in the slides)
+##### Project 3:
 
-the second task is to make yourself a website cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
-you can use any of these templates :
-- https://bootstrapmade.com/bootstrap-resume-cv-templates/
+Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
+[you can use any of these templates ](https://bootstrapmade.com/bootstrap-resume-cv-templates/):
 
-
-
-expected time to finish this phase is fully dependent on your hard work and passion
-
-now you must have basic understanding to the framework that could get you to the next level
-
+> now you must have basic understanding to the framework that could get you to the next level
 
 
 ### <a href="#intermediate">Intermediate</a>
