@@ -91,7 +91,7 @@ OR
 
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
-### UML & Modeling:
+## UML & Modeling:
 
 #### Importance:
 
@@ -118,9 +118,9 @@ OR
 
 - [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 
-### Introduction to web development
+## Introduction To Web Development
 
-#### Basics of how the web works
+### Basics of how the web works
 1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
 > you don't need to apply in this video.
@@ -128,16 +128,16 @@ OR
 2. [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY)
 
 
-#### Basics of API and REST architectural style
+### Basics of API and REST architectural style
 1. [REST Architecture](https://www.youtube.com/watch?v=LooL6_chvN4)
 2. [REST Architecture](https://www.youtube.com/watch?v=s7wmiS2mSXY)
 
 
-#### Client-Server style
+### Client-Server style
 1. [Client-Server Architecture-1 ](https://www.youtube.com/watch?v=L5BlpPU_muY)
 2. [Client-Server Architecture-2 ](https://www.youtube.com/watch?v=Zfmk0GtANNs)
 
-#### HTML & CSS
+### HTML & CSS
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 2. [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
@@ -157,8 +157,11 @@ _Every software engineer should know how to design and implement software in an 
 #### Basics
 1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
 2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-3. [What is new in PHP 7]()
-4. [What is new in PHP 8]()
+3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
+4. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
+5. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+6. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
 
 #### OOP
@@ -252,3 +255,4 @@ OR
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
+## Dive Into More Computer Science Essentials & Basics
