@@ -1,4 +1,5 @@
 # Backend Roadmap 2022
+___
 **Roadmap of the backend group updated for 2022**
 
 ## Index:
@@ -12,7 +13,7 @@
 7. Write Great Software
 
 ## 1. Computer Science Essentials & Basics
-
+___
 #### Notes:
 _1. Don't study this section sequentially, study all topics altogether at the same time._
 
@@ -89,7 +90,7 @@ OR
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
 ## 2. UML & Modeling:
-
+___
 #### Notes:
 
 _you should never start coding without first thinking and modeling what you will actually be coding._
@@ -102,7 +103,7 @@ _you should never start coding without first thinking and modeling what you will
 1. [UML Distilled](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
 ## 3. Development Tools & IDEs
-
+___
 #### Git & GitHub
 1. [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
@@ -116,7 +117,7 @@ OR
 - [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 
 ## 4. Introduction To Web Development
-
+___
 ### Basics of how the web works
 1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
@@ -145,7 +146,7 @@ OR
 
 
 ## 5.  Backend Web Technologies  PHP & Laravel
-
+___
 
 ### PHP  
 #### Basics
@@ -246,6 +247,7 @@ OR
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 ## 6. Dive Into More Computer Science Essentials :
+___
 ### More Data Structures and Algorithms
 1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
@@ -255,7 +257,7 @@ OR
 4. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 ## 7. Write Great Software
-
+___
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 ### Design Patterns
