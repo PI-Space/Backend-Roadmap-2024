@@ -134,8 +134,18 @@ OR
 
 
 #### Client-Server style
-1. [Client-Server Architecture ](https://www.youtube.com/watch?v=L5BlpPU_muY)
-2. [Client-Server Architecture ](https://www.youtube.com/watch?v=Zfmk0GtANNs)
+1. [Client-Server Architecture-1 ](https://www.youtube.com/watch?v=L5BlpPU_muY)
+2. [Client-Server Architecture-2 ](https://www.youtube.com/watch?v=Zfmk0GtANNs)
+
+#### HTML & CSS
+1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+2. [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+
+OR 
+
+1. [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+
 
 ### Backend Web Technologies & Tools - PHP & Laravel
 
