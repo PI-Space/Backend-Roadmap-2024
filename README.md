@@ -180,7 +180,7 @@ ___
 
 After you finish, Watch & Apply in section number 14 in this playlist
 
-2. [laravel 8 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
+2. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
 After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
 
