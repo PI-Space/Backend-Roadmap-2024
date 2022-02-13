@@ -66,7 +66,7 @@ OR
 1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 
 #### Books
-1. [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://www.auhd.site/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
+1. [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
 
 ### Introduction to Operating Systems
 
