@@ -89,11 +89,17 @@ OR
 
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 ___
-## 2. UML & Modeling:
+## 2. UML & Modeling - Requirements Analysis:
 
 #### Notes:
 
 _you should never start coding without first thinking and modeling what you will actually be coding._
+
+
+
+#### Articles
+1. [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
+___
 
 #### Videos
 
