@@ -37,6 +37,9 @@ OR
 
 > please note that you can use subtitle if you find it hard to understand only in english 
 
+_If you want CS 50 Translated
+
+2. [مترجم بالعربي CS50 2020](https://www.youtube.com/playlist?list=PLE-xA_CUmS2Zu3RUXjuh9KyFcavl8hQ0_)
 
 ### Data Structure and Algorithms
 
