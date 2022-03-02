@@ -157,8 +157,8 @@ ___
 ## 5.  Backend Web Technologies  PHP & Laravel
 
 
-### PHP  
-#### Basics
+### PHP - Baiscs
+#### Videos
 1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
 2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
 3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
@@ -168,9 +168,12 @@ ___
 7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
 > Instead of studying playlist 3 - 7 you can read this book: Paid
+
+##### Books:
+
 1. [Front Line PHP](https://front-line-php.com/)
 
-#### OOP
+### PHP - OOP
 ##### Videos:
 1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
 2. [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
