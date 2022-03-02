@@ -167,6 +167,8 @@ ___
 6. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
 7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
+> Instead of studying playlist 3 - 7 you can read this book: Paid
+1. [Front Line PHP](https://front-line-php.com/)
 
 #### OOP
 ##### Videos:
@@ -237,6 +239,11 @@ OR
 
 ##### PEST framework:
 1. [Learn Pest](https://www.youtube.com/watch?v=lEvau6CgqPE)
+
+
+##### Mastring ORM: Paid
+1. [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
+
 
 ##### Building API
 1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
