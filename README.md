@@ -67,6 +67,7 @@ OR
 OR
 
 1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+2.[Database 1- المقرر العملى ](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
 
 #### Books
 1. [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
