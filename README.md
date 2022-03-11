@@ -12,7 +12,7 @@ ___
 6. Dive Into More Computer Science Essentials & Basics 
 7. Write Great Software
 ___
-## 1. Computer Science Essentials & Basics
+## 1. Computer Science Essentials & Basics - Entry Level
 
 #### Notes:
 _1. Don't study this section sequentially, study all topics altogether at the same time._
@@ -96,7 +96,7 @@ OR
 
 1. [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 ___
-## 2. UML & Modeling - Requirements Analysis:
+## 2. UML & Modeling - Requirements Analysis - Beginner Level:
 
 #### Notes:
 
@@ -115,7 +115,7 @@ ___
 #### Books
 1. [UML Distilled](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 ___
-## 3. Development Tools & IDEs
+## 3. Development Tools & IDEs - Beginner Level:
 
 #### Git & GitHub
 1. [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
@@ -129,7 +129,7 @@ OR
 
 - [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 ___
-## 4. Introduction To Web Development
+## 4. Introduction To Web Development - Beginner Level:
 
 ### Basics of how the web works
 1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
@@ -158,7 +158,7 @@ OR
 2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
 ___
-## 5.  Backend Web Technologies  PHP & Laravel
+## 5.  Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level:
 
 
 ### PHP - Baiscs
@@ -186,7 +186,7 @@ ___
 ##### Books:
 1. [programming php 4th edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 
-### Laravel :
+### Laravel - Intermediate Level:
 
 #### Beginner Level - The basics and beyond
 
@@ -270,7 +270,7 @@ OR
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 ___
-## 6. Dive Into More Computer Science Essentials :
+## 6. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
 ### More Data Structures and Algorithms
 1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
@@ -281,7 +281,7 @@ ___
 4. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 ___
-## 7. Write Great Software
+## 7. Write Great Software - Intermediate & Advanced Level:
 
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
