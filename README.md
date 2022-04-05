@@ -132,21 +132,10 @@ ___
 ## 4. Introduction To Web Development - Beginner Level:
 
 ### Basics of how the web works
-1. [HTTP Crash Course & Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
 
-> you don't need to apply in this video.
-
-2. [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY)
-
-
-### Basics of API and REST architectural style
-1. [REST Architecture](https://www.youtube.com/watch?v=LooL6_chvN4)
-2. [REST Architecture](https://www.youtube.com/watch?v=s7wmiS2mSXY)
-
-
-### Client-Server style
-1. [Client-Server Architecture-1 ](https://www.youtube.com/watch?v=L5BlpPU_muY)
-2. [Client-Server Architecture-2 ](https://www.youtube.com/watch?v=Zfmk0GtANNs)
+### Client-Server Model
+### MVC
+1. [CIS - Backend Group Video](https://drive.google.com/file/d/1acPXDck8HbI1Raw6nHE0gVl7CYRt02Ee/view?usp=sharing)
 
 ### HTML & CSS
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
