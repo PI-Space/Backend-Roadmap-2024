@@ -131,10 +131,11 @@ OR
 ___
 ## 4. Introduction To Web Development - Beginner Level:
 
-- Basics of how the web works
 - Client-Server Model
-- MVC
+- HTTP
 - Dynamic vs Static Sites
+- Intro to HTTP Methods
+- Inside the Web Application: MVC
 
 1. [Eyad Hamza, CIS - Backend Group Video](https://drive.google.com/file/d/1acPXDck8HbI1Raw6nHE0gVl7CYRt02Ee/view?usp=sharing)
 2. [Eyad Hamza, CIS - Backend Group Slides 1](https://docs.google.com/presentation/d/1_VfrF8sgjqpYDnVxzyNWrXIzSbYMFEkU/edit?usp=sharing&ouid=104856923312956172099&rtpof=true&sd=true)
