@@ -118,11 +118,11 @@ ___
 ## 3. Development Tools & IDEs - Beginner Level:
 
 #### Git & GitHub
-1. [Git & GitHub](https://www.youtube.com/watch?v=RGOj5yH7evk)
+1. [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 OR 
 
-1. [Git & GitHub](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+1. [Git & GitHub - Arabic, Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
 #### Editors
 - [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
