@@ -177,7 +177,7 @@ ___
 3. [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 
 ##### Books:
-1. [programming php 4th edition](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 
 ### Laravel - Intermediate Level:
 
