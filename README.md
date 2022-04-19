@@ -271,7 +271,7 @@ ___
 2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
 3. [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 ### More Operating Systems
-4. [Intro To Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+4. [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 ___
 ## 7. Write Great Software - Intermediate & Advanced Level:
