@@ -245,8 +245,6 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 7. [Intermediate Laravel](https://laracasts.com/series/intermediate-laravel)
 
-8. [Intermediate Laravel](https://laracasts.com/series/intermediate-laravel)
-
 
 ##### Code Enhancements:
 
