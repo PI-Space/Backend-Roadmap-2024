@@ -156,13 +156,15 @@ ___
 
 ### PHP - Baiscs
 #### Videos
-1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
-2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-4. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
-5. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-6. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
+2. [PHP 5.6 and MySQL 5.7 - Arabic](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
+3. [Learn PHP The Right Way - English](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
+4. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+5. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
+6. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
+7. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+8. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+9. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
 
 > Instead of studying playlist 3 - 7 you can read this book: Paid
 
@@ -178,6 +180,14 @@ ___
 
 ##### Books:
 1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+
+
+### PHP - MVC
+##### Videos:
+1. [PHP MVC project - Arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+
+2. [Build PHP MVC Framework - English](https://www.youtube.com/playlist?list=PLLQuc_7jk__Uk_QnJMPndbdKECcTEwTA1)
+
 
 ### Laravel - Intermediate Level:
 
@@ -218,6 +228,34 @@ Build a website to show your cv where you can add your works, services, portfoli
 #### Intermediate Level - Beyond the basics
 
 > now you need to be familiar with some advanced topics such as:
+
+##### Videos
+
+1. [Laravel Authentication (Breeze, Jetstream, Fortify)](https://laracasts.com/series/laravel-authentication-options)
+
+2. [Learn Telescope](https://laracasts.com/series/learn-telescope)
+
+3. [Learn Socialite](https://laracasts.com/series/learn-socialite)
+
+4. [Laravel Explained](https://laracasts.com/series/laravel-explained)
+
+5. [Eloquent Relationships](https://laracasts.com/series/eloquent-relationships)
+
+6. [How Do I](https://laracasts.com/series/how-do-i)
+
+7. [Intermediate Laravel](https://laracasts.com/series/intermediate-laravel)
+
+8. [Intermediate Laravel](https://laracasts.com/series/intermediate-laravel)
+
+
+##### Code Enhancements:
+
+1. [Code Reflections](https://laracasts.com/series/code-reflections)
+
+2. [Simple Rules for Simpler Code](https://laracasts.com/series/simple-rules-for-simpler-code)
+
+2. [PHP Bits](https://laracasts.com/series/php-bits)
+
 
 ##### Master your editor:
 
