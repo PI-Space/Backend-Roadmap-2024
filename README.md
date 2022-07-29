@@ -170,6 +170,9 @@ ___
 
 1. [Front Line PHP](https://front-line-php.com/)
 
+### Videos:
+1. [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+
 ### PHP - OOP
 ##### Videos:
 1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
@@ -196,6 +199,9 @@ After you finish, Watch & Apply in section number 14 in this playlist
 After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+
+4. [Laravel 8 Ecommerce Project](https://www.youtube.com/playlist?list=PL_99hMDlL4d3-n63bsNaaDRnTZdCOvU6q)
+
 
 > After you finish, It's time to finish things on your own with two projects:
 
@@ -225,8 +231,10 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 - [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 
-##### Read about laravel best practices
-    - https://github.com/alexeymezenin/laravel-best-practices
+##### Read about laravel best practices & Tips
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+- [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
+- [LaravelDaily](https://www.youtube.com/c/LaravelDaily) 
 
 ##### testing laravel:
 1. [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
@@ -278,8 +286,18 @@ ___
 
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
-### Design Patterns
-2. [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+### Design Patterns & SOLID Principle
+2. 
+    -  Books
+        - [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+    - Videos
+        - [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
+        - [Arabic SOLID Principle](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic Creational Design Pattern](https://www.youtube.com/watch?v=hT9Gv_wabbw&list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ&ab_channel=MohammedReda)
+        - [Arabic Structural Design Pattern](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
+        - [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
+        - [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 ### Clean Code & Refactoring
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
