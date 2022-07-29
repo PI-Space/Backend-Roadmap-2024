@@ -286,8 +286,18 @@ ___
 
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
-### Design Patterns
-2. [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+### Design Patterns & SOLID Principle
+2. 
+    -  Books
+        - [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+    - Videos
+        - [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
+        - [Arabic SOLID Principle](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic Creational Design Pattern](https://www.youtube.com/watch?v=hT9Gv_wabbw&list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ&ab_channel=MohammedReda)
+        - [Arabic Structural Design Pattern](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
+        - [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
+        - [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 ### Clean Code & Refactoring
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
