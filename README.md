@@ -170,6 +170,9 @@ ___
 
 1. [Front Line PHP](https://front-line-php.com/)
 
+### Videos:
+1. [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+
 ### PHP - OOP
 ##### Videos:
 1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
@@ -196,6 +199,9 @@ After you finish, Watch & Apply in section number 14 in this playlist
 After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+
+4. [Laravel 8 Ecommerce Project](https://www.youtube.com/playlist?list=PL_99hMDlL4d3-n63bsNaaDRnTZdCOvU6q)
+
 
 > After you finish, It's time to finish things on your own with two projects:
 
@@ -225,8 +231,10 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 - [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 
-##### Read about laravel best practices
-    - https://github.com/alexeymezenin/laravel-best-practices
+##### Read about laravel best practices & Tips
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+- [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
+- [LaravelDaily](https://www.youtube.com/c/LaravelDaily) 
 
 ##### testing laravel:
 1. [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
