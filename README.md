@@ -1,6 +1,8 @@
 # Backend Roadmap 2022
 ___
-**Roadmap of the backend group updated for 2022**
+
+## Video for Roadmap Clarification
+- [CIS Campus 2022 Backend Video ](https://www.youtube.com/watch?v=845L6VI-Ekc)
 
 ## Index:
 
