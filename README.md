@@ -304,3 +304,4 @@ ___
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 5. [Martin Fowler](https://martinfowler.com/books/)
+6. [Working Effectively with Legacy Code](https://drive.google.com/file/d/1qDNnIRC89m0lO039M2ku5KE9MoqufCXc/view?usp=sharing)
