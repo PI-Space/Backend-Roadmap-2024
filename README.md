@@ -138,10 +138,8 @@ ___
 - Dynamic vs Static Sites
 - Intro to HTTP Methods
 - Inside the Web Application: MVC
-
-1. [Eyad Hamza, CIS - Backend Group Video](https://drive.google.com/file/d/1acPXDck8HbI1Raw6nHE0gVl7CYRt02Ee/view?usp=sharing)
-2. [Eyad Hamza, CIS - Backend Group Slides 1](https://docs.google.com/presentation/d/1_VfrF8sgjqpYDnVxzyNWrXIzSbYMFEkU/edit?usp=sharing&ouid=104856923312956172099&rtpof=true&sd=true)
-3. [Eyad Hamza, CIS - Backend Group Slides 2](https://docs.google.com/presentation/d/1AUUP5Q1kCFhEIbAWmgWP6Nsx64ebDbx_/edit?usp=sharing&ouid=104856923312956172099&rtpof=true&sd=true)
+- [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
+- [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
 ### HTML & CSS
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
