@@ -161,12 +161,13 @@ ___
 #### Videos
 1. [Getting to know the basics - PHP 5 - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
 2. [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
-2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-4. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
-5. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-6. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+3. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+4. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
+5. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
+6. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+7. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+8. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/29)
+9. [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 > Instead of studying playlist 3 - 7 you can read this book: Paid
 
