@@ -122,6 +122,7 @@ ___
 
 #### Git & GitHub
 1. [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+2. [Git & GitHub - English, Google Course](https://www.coursera.org/learn/introduction-git-github)
 
 OR 
 
