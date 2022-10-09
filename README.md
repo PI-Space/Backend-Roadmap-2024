@@ -159,7 +159,8 @@ ___
 
 ### PHP - Baiscs
 #### Videos
-1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
+1. [Getting to know the basics - PHP 5 - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
+2. [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
 2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
 3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
 4. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
