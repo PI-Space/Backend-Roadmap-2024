@@ -202,7 +202,7 @@ After you implement Tweety app (in the laravel 6 series) you will follow these t
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
-4. [Laravel 8 Ecommerce Project](https://www.youtube.com/playlist?list=PL_99hMDlL4d3-n63bsNaaDRnTZdCOvU6q)
+4. [Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
 
 
 > After you finish, It's time to finish things on your own with two projects:
