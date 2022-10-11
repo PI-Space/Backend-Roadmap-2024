@@ -65,7 +65,8 @@ OR
 
 #### Videos
 1. [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-2. [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+2. [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+3. [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
 OR
 
@@ -121,6 +122,7 @@ ___
 
 #### Git & GitHub
 1. [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+2. [Git & GitHub - English, Google Course](https://www.coursera.org/learn/introduction-git-github)
 
 OR 
 
@@ -141,7 +143,7 @@ ___
 - [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
-### HTML & CSS
+### HTML & CSS & JS
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 2. [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
@@ -149,6 +151,7 @@ OR
 
 1. [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+3. [JavaScript - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 ___
 ## 5.  Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level:
@@ -156,13 +159,15 @@ ___
 
 ### PHP - Baiscs
 #### Videos
-1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
-2. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-3. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-4. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
-5. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-6. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-7. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+1. [Getting to know the basics - PHP 5 - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
+2. [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
+3. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+4. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
+5. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
+6. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
+7. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+8. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/29)
+9. [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 > Instead of studying playlist 3 - 7 you can read this book: Paid
 
@@ -200,7 +205,7 @@ After you implement Tweety app (in the laravel 6 series) you will follow these t
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
-4. [Laravel 8 Ecommerce Project](https://www.youtube.com/playlist?list=PL_99hMDlL4d3-n63bsNaaDRnTZdCOvU6q)
+4. [Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
 
 
 > After you finish, It's time to finish things on your own with two projects:
