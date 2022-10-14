@@ -161,7 +161,9 @@ ___
 #### Videos to Learn PHP Basics
 
 - [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
+
 OR
+
 - [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 #### Videos to Apply in MVC Project
@@ -288,6 +290,12 @@ ___
 - [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 ### Operating Systems
 - [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+
+### Distributed Systems
+
+- [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 ___
 ## 7. Write Great Software - Intermediate & Advanced Level:
