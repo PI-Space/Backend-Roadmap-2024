@@ -279,12 +279,13 @@ ___
 ## 6. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
 ### More Data Structures and Algorithms
-1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
-2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
-3. [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-### More Operating Systems
-4. [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+- [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+- [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+- [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+### Operating Systems
+- [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
 ___
 ## 7. Write Great Software - Intermediate & Advanced Level:
