@@ -158,31 +158,34 @@ ___
 
 
 ### PHP - Baiscs
-#### Videos
-1. [Getting to know the basics - PHP 5 - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
-2. [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
-3. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-4. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-5. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
-6. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-7. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-8. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/29)
-9. [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
+#### Videos to Learn PHP Basics
 
-> Instead of studying playlist 3 - 7 you can read this book: Paid
+- [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
+OR
+- [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition
 
-##### Books:
+#### Videos to Apply in MVC Project
+> Choose at least two
+- [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
 
-1. [Front Line PHP](https://front-line-php.com/)
+- [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 
-### Videos:
-1. [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+- [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+
+#### Videos to Understand what is New
+
+- [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+- [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
+
+> Instead of studying the previous 2 playlists you can read this book: Paid
+- [Front Line PHP](https://front-line-php.com/)
 
 ### PHP - OOP
 ##### Videos:
-1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-2. [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
-3. [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
+> Choose at least two
+- [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 
 ##### Books:
 1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
