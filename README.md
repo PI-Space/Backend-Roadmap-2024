@@ -162,7 +162,7 @@ ___
 
 - [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
 OR
-- [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition
+- [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 #### Videos to Apply in MVC Project
 > Choose at least two
@@ -194,17 +194,16 @@ OR
 
 #### Beginner Level - The basics and beyond
 
-##### Books
-1. [laravel up and running 2nd edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
-
 ##### Videos
-1. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+1. [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+
+2. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
 After you finish, Watch & Apply in section number 14 in this playlist
 
-2. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
+3. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
-After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
+> After you implement Tweety app (in the laravel 6 series) you will follow these tutorials for more projects
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
