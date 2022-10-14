@@ -6,13 +6,13 @@ ___
 
 ## Index:
 
-1. Computer Science Essentials & Basics 
-2. UML & Modeling 
-3. Necessary Development Tools 
-4. Introduction To Web Development 
-5. Dive Into Technology & Tools - PHP & Laravel 
-6. Dive Into More Computer Science Essentials & Basics 
-7. Write Great Software
+1. [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
+2. [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
+3. [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
+4. [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
+5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner--intermediate-level) 
+6. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#6-dive-into-more-computer-science-essentials---intermediate--advanced-level)
+7. [Write Great Software - Intermediate & Advanced Level](#7-write-great-software---intermediate--advanced-level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
