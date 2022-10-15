@@ -177,7 +177,6 @@ OR
 #### Videos to Understand what is New
 
 - [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-- [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 > Instead of studying the previous 2 playlists you can read this book: Paid
 - [Front Line PHP](https://front-line-php.com/)
