@@ -6,13 +6,13 @@ ___
 
 ## Index:
 
-1. Computer Science Essentials & Basics 
-2. UML & Modeling 
-3. Necessary Development Tools 
-4. Introduction To Web Development 
-5. Dive Into Technology & Tools - PHP & Laravel 
-6. Dive Into More Computer Science Essentials & Basics 
-7. Write Great Software
+1. [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
+2. [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
+3. [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
+4. [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
+5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner--intermediate-level) 
+6. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#6-dive-into-more-computer-science-essentials---intermediate--advanced-level)
+7. [Write Great Software - Intermediate & Advanced Level](#7-write-great-software---intermediate--advanced-level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
@@ -158,31 +158,35 @@ ___
 
 
 ### PHP - Baiscs
-#### Videos
-1. [Getting to know the basics - PHP 5 - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM) 
-2. [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
-3. [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-4. [What is new in PHP 7](https://laracasts.com/series/php7-up-and-running)
-5. [What is new in PHP 7.1](https://laracasts.com/series/whats-new-in-php-7-1)
-6. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
-7. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
-8. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/29)
-9. [PHP For Beginners 2023-edition](https://laracasts.com/series/php-for-beginners-2023-edition)
+#### Videos to Learn PHP Basics
 
-> Instead of studying playlist 3 - 7 you can read this book: Paid
+- [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
 
-##### Books:
+OR
 
-1. [Front Line PHP](https://front-line-php.com/)
+- [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition)
 
-### Videos:
-1. [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+#### Videos to Apply in MVC Project
+> Choose at least two
+- [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+
+- [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+
+- [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+
+#### Videos to Understand what is New
+
+- [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+
+> Instead of studying the previous 2 playlists you can read this book: Paid
+- [Front Line PHP](https://front-line-php.com/)
 
 ### PHP - OOP
 ##### Videos:
-1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-2. [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
-3. [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
+> Choose at least two
+- [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 
 ##### Books:
 1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
@@ -191,17 +195,16 @@ ___
 
 #### Beginner Level - The basics and beyond
 
-##### Books
-1. [laravel up and running 2nd edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
-
 ##### Videos
-1. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+1. [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+
+2. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
 After you finish, Watch & Apply in section number 14 in this playlist
 
-2. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
+3. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
-After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
+> After you implement Tweety app (in the laravel 6 series) you will follow these tutorials for more projects
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
 
@@ -279,12 +282,19 @@ ___
 ## 6. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
 ### More Data Structures and Algorithms
-1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
-2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
-3. [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-### More Operating Systems
-4. [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+- [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+- [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+- [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+### Operating Systems
+- [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+
+### Distributed Systems
+
+- [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 ___
 ## 7. Write Great Software - Intermediate & Advanced Level:
