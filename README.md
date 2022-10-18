@@ -326,7 +326,7 @@ ___
 ### Cloud
 - [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
 ### Deployment
-1. [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+- [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
-2. [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+- [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
