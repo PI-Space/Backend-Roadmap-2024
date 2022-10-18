@@ -13,6 +13,7 @@ ___
 5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner--intermediate-level) 
 6. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#6-dive-into-more-computer-science-essentials---intermediate--advanced-level)
 7. [Write Great Software - Intermediate & Advanced Level](#7-write-great-software---intermediate--advanced-level)
+8. [Integration & deployment]()
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
@@ -270,11 +271,6 @@ OR
 1. [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
 
-##### Deployment
-1. [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
-
-2. [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
-
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
@@ -317,3 +313,20 @@ ___
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 5. [Martin Fowler](https://martinfowler.com/books/)
+
+___
+## 7. Integration and Deployment - Advanced Level:
+
+### CI CD
+- [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
+### Container 
+- [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
+- [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+- [Docker Practical Course - Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
+### Cloud
+- [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+### Deployment
+1. [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+
+2. [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+
