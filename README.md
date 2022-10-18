@@ -302,11 +302,11 @@ ___
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 ### Design Patterns & SOLID Principle
 2. 
-    -  Books
+    - Books
         - [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
     - Videos
         - [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
-        - [Arabic SOLID Principle](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic SOLID Principle](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
         - [Arabic Creational Design Pattern](https://www.youtube.com/watch?v=hT9Gv_wabbw&list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ&ab_channel=MohammedReda)
         - [Arabic Structural Design Pattern](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
         - [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
