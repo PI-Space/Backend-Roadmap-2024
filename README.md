@@ -144,7 +144,7 @@ ___
 - [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
-### HTML & CSS & JS
+### HTML & CSS 
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 2. [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
@@ -152,7 +152,10 @@ OR
 
 1. [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-3. [JavaScript - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+### Javascript
+1. [JavaScript Intro - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+2. [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
 ___
 ## 5.  Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level:
