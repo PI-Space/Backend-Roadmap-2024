@@ -313,6 +313,8 @@ ___
         - [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
         - [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
         - [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+    - Website
+        - [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
 ### Clean Code & Refactoring
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
