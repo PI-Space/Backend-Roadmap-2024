@@ -13,7 +13,7 @@ ___
 5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner--intermediate-level) 
 6. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#6-dive-into-more-computer-science-essentials---intermediate--advanced-level)
 7. [Write Great Software - Intermediate & Advanced Level](#7-write-great-software---intermediate--advanced-level)
-8. [Integration & deployment](#8-Integration-and-Deployment---Advanced-Level)
+8. [Integration & deployment - Advanced Level](#8-Integration-and-Deployment---Advanced-Level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
