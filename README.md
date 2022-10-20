@@ -74,11 +74,7 @@ OR
 OR
 
 1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
-
-
 2.[المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
-
-
 3.[مقدمة الى قواعد البيانات - مهارات تك](https://maharatech.gov.eg/course/view.php?id=740)
 
 
