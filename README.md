@@ -232,16 +232,15 @@ Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-
 Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
 [you can use any of these templates ](https://bootstrapmade.com/bootstrap-resume-cv-templates/):
 
-
 ##### Building API
 1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
 
 2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
 
+> now you must have basic understanding to the framework that could get you to the next level
+
 ___
 ## 6.  Backend Web Technologies Laravel - Intermediate Level:
-
-> now you must have basic understanding to the framework that could get you to the next level
 
 #### Intermediate Level - Beyond the basics
 
