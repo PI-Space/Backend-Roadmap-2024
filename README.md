@@ -232,8 +232,6 @@ Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-
 Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
 [you can use any of these templates ](https://bootstrapmade.com/bootstrap-resume-cv-templates/):
 
-> now you must have basic understanding to the framework that could get you to the next level
-
 
 ##### Building API
 1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
@@ -242,6 +240,8 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 ___
 ## 6.  Backend Web Technologies Laravel - Intermediate Level:
+
+> now you must have basic understanding to the framework that could get you to the next level
 
 #### Intermediate Level - Beyond the basics
 
@@ -293,6 +293,8 @@ ___
 - [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 - [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 - [NoSQL Database Tutorial](https://www.youtube.com/watch?v=xh4gy1lbL2k)
+
+
 ### Operating Systems
 - [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
