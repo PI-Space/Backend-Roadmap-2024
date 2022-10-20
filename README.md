@@ -15,7 +15,7 @@ ___
 7. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
 8. [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
 9. [Integration & deployment - Advanced Level](#9-Integration-and-Deployment---Advanced-Level)
-10. [Web Application Security - Advanced Level](#10-Web-Application---Advanced-Level)
+10. [Web Application Security - Advanced Level](#10-Web-Application-Security---Advanced-Level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
