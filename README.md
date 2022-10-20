@@ -112,7 +112,6 @@ _you should never start coding without first thinking and modeling what you will
 
 #### Articles
 1. [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
-___
 
 #### Videos
 
