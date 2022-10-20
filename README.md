@@ -345,6 +345,6 @@ ___
 - [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
 ___
-## 10. Web Application Security
+## 10. Web Application Security - Advanced Level:
 
 - [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
