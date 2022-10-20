@@ -78,6 +78,10 @@ OR
 
 2.[المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
 
+
+3.[مقدمة الى قواعد البيانات - مهارات تك](https://maharatech.gov.eg/course/view.php?id=740)
+
+
 #### Books
 1. [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
 
