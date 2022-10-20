@@ -10,10 +10,12 @@ ___
 2. [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
 3. [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
 4. [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
-5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner--intermediate-level) 
-6. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#6-dive-into-more-computer-science-essentials---intermediate--advanced-level)
-7. [Write Great Software - Intermediate & Advanced Level](#7-write-great-software---intermediate--advanced-level)
-8. [Integration & deployment - Advanced Level](#8-Integration-and-Deployment---Advanced-Level)
+5. [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner-level) 
+6. [Backend Web Technologies Laravel - Intermediate Level](#6--backend-web-technologies-laravel---intermediate-level) 
+7. [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
+8. [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
+9. [Integration & deployment - Advanced Level](#9-Integration-and-Deployment---Advanced-Level)
+10. [Web Application Security - Advanced Level](#10-Web-Application---Advanced-Level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
@@ -158,7 +160,7 @@ OR
 2. [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
 ___
-## 5.  Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level:
+## 5.  Backend Web Technologies PHP & Laravel - Beginner Level:
 
 
 ### PHP - Baiscs
@@ -195,7 +197,7 @@ OR
 ##### Books:
 1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 
-### Laravel - Intermediate Level:
+### Laravel - Beginner Level:
 
 #### Beginner Level - The basics and beyond
 
@@ -233,6 +235,14 @@ Build a website to show your cv where you can add your works, services, portfoli
 > now you must have basic understanding to the framework that could get you to the next level
 
 
+##### Building API
+1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
+
+2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+
+___
+## 6.  Backend Web Technologies Laravel - Intermediate Level:
+
 #### Intermediate Level - Beyond the basics
 
 > now you need to be familiar with some advanced topics such as:
@@ -265,10 +275,6 @@ OR
 1. [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
 
 
-##### Building API
-1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
-
-2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
 
 ##### Laravel package development :
 1. [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
@@ -278,7 +284,7 @@ OR
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 ___
-## 6. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
+## 7. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
 ### More Data Structures and Algorithms
 - [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
@@ -297,7 +303,7 @@ ___
 - [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 ___
-## 7. Write Great Software - Intermediate & Advanced Level:
+## 8. Write Great Software - Intermediate & Advanced Level:
 
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
@@ -321,7 +327,7 @@ ___
 5. [Martin Fowler](https://martinfowler.com/books/)
 
 ___
-## 8. Integration and Deployment - Advanced Level:
+## 9. Integration and Deployment - Advanced Level:
 
 ### CI CD
 - [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
@@ -336,3 +342,7 @@ ___
 
 - [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
 
+___
+## 10. Web Application Security
+
+- [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
