@@ -238,6 +238,10 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
 
+OR 
+
+3. [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
+
 > now you must have basic understanding to the framework that could get you to the next level
 
 ___
