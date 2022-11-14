@@ -1,16 +1,21 @@
 # Backend Roadmap 2022
 ___
-**Roadmap of the backend group updated for 2022**
+
+## Video for Roadmap Clarification
+- [CIS Campus 2022 Backend Video ](https://www.youtube.com/watch?v=845L6VI-Ekc)
 
 ## Index:
 
-1. Computer Science Essentials & Basics 
-2. UML & Modeling 
-3. Necessary Development Tools 
-4. Introduction To Web Development 
-5. Dive Into Technology & Tools - PHP & Laravel 
-6. Dive Into More Computer Science Essentials & Basics 
-7. Write Great Software
+- [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
+- [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
+- [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
+- [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
+- [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner-level) 
+- [Backend Web Technologies Laravel - Intermediate Level](#6--backend-web-technologies-laravel---intermediate-level) 
+- [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
+- [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
+- [Integration & deployment - Advanced Level](#9-Integration-and-Deployment---Advanced-Level)
+- [Web Application Security - Advanced Level](#10-Web-Application-Security---Advanced-Level)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
@@ -63,14 +68,17 @@ OR
 
 #### Videos
 1. [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
-2. [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
+2. [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
+3. [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc)
 
 OR
 
 1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
 
+2. [المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
 
-2.[المقرر العملى](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484)
+3. [مقدمة الى قواعد البيانات - مهارات تك](https://maharatech.gov.eg/course/view.php?id=740)
+
 
 #### Books
 1. [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
@@ -106,7 +114,6 @@ _you should never start coding without first thinking and modeling what you will
 
 #### Articles
 1. [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
-___
 
 #### Videos
 
@@ -119,6 +126,7 @@ ___
 
 #### Git & GitHub
 1. [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+2. [Git & GitHub - English, Google Course](https://www.coursera.org/learn/introduction-git-github)
 
 OR 
 
@@ -136,12 +144,10 @@ ___
 - Dynamic vs Static Sites
 - Intro to HTTP Methods
 - Inside the Web Application: MVC
+- [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
+- [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
-1. [Eyad Hamza, CIS - Backend Group Video](https://drive.google.com/file/d/1acPXDck8HbI1Raw6nHE0gVl7CYRt02Ee/view?usp=sharing)
-2. [Eyad Hamza, CIS - Backend Group Slides 1](https://docs.google.com/presentation/d/1_VfrF8sgjqpYDnVxzyNWrXIzSbYMFEkU/edit?usp=sharing&ouid=104856923312956172099&rtpof=true&sd=true)
-3. [Eyad Hamza, CIS - Backend Group Slides 2](https://docs.google.com/presentation/d/1AUUP5Q1kCFhEIbAWmgWP6Nsx64ebDbx_/edit?usp=sharing&ouid=104856923312956172099&rtpof=true&sd=true)
-
-### HTML & CSS
+### HTML & CSS 
 1. [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 2. [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
 
@@ -150,11 +156,16 @@ OR
 1. [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 2. [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
+### Javascript
+1. [JavaScript Intro - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+2. [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+
 ___
-## 5.  Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level:
+## 5.  Backend Web Technologies PHP & Laravel - Beginner Level:
 
 
 ### PHP - Baiscs
+
 #### Videos
 1. [Getting to know the basics - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
 2. [PHP 5.6 and MySQL 5.7 - Arabic](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
@@ -165,18 +176,36 @@ ___
 7. [What's New in PHP 7.4](https://laracasts.com/series/whats-new-in-php-74)
 8. [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
 9. [What is new in PHP 8.1](https://laracasts.com/series/jeffreys-larabits/episodes/2)
+=======
+#### Videos to Learn PHP Basics
 
-> Instead of studying playlist 3 - 7 you can read this book: Paid
+- [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
 
-##### Books:
+OR
 
-1. [Front Line PHP](https://front-line-php.com/)
+- [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+
+#### Videos to Apply in MVC Project
+> Choose at least two
+- [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+
+- [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+
+- [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
+
+#### Videos to Understand what is New
+
+- [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
+
+> Instead of studying the previous 2 playlists you can read this book: Paid
+- [Front Line PHP](https://front-line-php.com/)
 
 ### PHP - OOP
 ##### Videos:
-1. [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-2. [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
-3. [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
+> Choose at least two
+- [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+- [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+- [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 
 ##### Books:
 1. [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
@@ -190,22 +219,26 @@ ___
 
 
 ### Laravel - Intermediate Level:
+=======
+### Laravel - Beginner Level:
 
 #### Beginner Level - The basics and beyond
 
-##### Books
-1. [laravel up and running 2nd edition](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
-
 ##### Videos
-1. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+1. [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+
+2. [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
 
 After you finish, Watch & Apply in section number 14 in this playlist
 
-2. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
+3. [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
-After you implement Tweety app (in the laravel 6 series) you will follow these tutorials where you will build an instagram clone.
+> After you implement Tweety app (in the laravel 6 series) you will follow these tutorials for more projects
 
 3. [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+
+4. [Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
+
 
 > After you finish, It's time to finish things on your own with two projects:
 
@@ -222,8 +255,19 @@ Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-
 Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
 [you can use any of these templates ](https://bootstrapmade.com/bootstrap-resume-cv-templates/):
 
+##### Building API
+1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
+
+2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+
+OR 
+
+3. [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
+
 > now you must have basic understanding to the framework that could get you to the next level
 
+___
+## 6.  Backend Web Technologies Laravel - Intermediate Level:
 
 #### Intermediate Level - Beyond the basics
 
@@ -261,8 +305,10 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 - [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
 
-##### Read about laravel best practices
-    - https://github.com/alexeymezenin/laravel-best-practices
+##### Read about laravel best practices & Tips
+- [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+- [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
+- [LaravelDaily](https://www.youtube.com/c/LaravelDaily) 
 
 ##### testing laravel:
 1. [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
@@ -281,42 +327,76 @@ OR
 1. [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
 
 
-##### Building API
-1. [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
-
-2. [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
 
 ##### Laravel package development :
 1. [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
 
-##### Deployment
-1. [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
-
-2. [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
-
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 ___
-## 6. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
+## 7. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
 ### More Data Structures and Algorithms
-1. [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+- [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 ### More Database Systems
-2. [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi)
-3. [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
-### More Operating Systems
-4. [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+- [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+- [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+- [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+- [NoSQL Database Tutorial](https://www.youtube.com/watch?v=xh4gy1lbL2k)
+
+
+### Operating Systems
+- [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+
+### Distributed Systems
+
+- [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
 ___
-## 7. Write Great Software - Intermediate & Advanced Level:
+## 8. Write Great Software - Intermediate & Advanced Level:
 
 ### Object-Oriented Analysis and Design
 1. [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
-### Design Patterns
-2. [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+### Design Patterns & SOLID Principle
+2. 
+    - Books
+        - [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
+    - Videos
+        - [Mosh  Design Pattern](https://www.youtube.com/watch?v=NU_1StN5Tkk&ab_channel=ProgrammingwithMosh)
+        - [Arabic SOLID Principle](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL)
+        - [Arabic Creational Design Pattern](https://www.youtube.com/watch?v=hT9Gv_wabbw&list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ&ab_channel=MohammedReda)
+        - [Arabic Structural Design Pattern](https://www.youtube.com/watch?v=5qBVy3dCEQw&list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm&ab_channel=MohammedReda)
+        - [Arabic Design Pattern](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&ab_channel=DevGeeksAcademy)
+        - [Arabic PHP Design Pattern](https://www.youtube.com/watch?v=hYas1gMp2nM&list=PLdYYj2XLw5BnpInmR103TyVwFd_CLI6IS&ab_channel=RamyHakam)
+        - [Head First Design Pattern As an English Playlist](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+    - Website
+        - [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
 ### Clean Code & Refactoring
 3. [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 4. [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 5. [Martin Fowler](https://martinfowler.com/books/)
+
+___
+## 9. Integration and Deployment - Advanced Level:
+
+### CI CD
+- [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
+### Container 
+- [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
+- [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
+- [Docker Practical Course - Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
+### Cloud
+- [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+### Deployment
+- [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
+
+- [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+
+___
+## 10. Web Application Security - Advanced Level:
+
+- [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
