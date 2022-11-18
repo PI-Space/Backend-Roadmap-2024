@@ -158,7 +158,12 @@ OR
 
 ### Javascript
 1. [JavaScript Intro - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-2. [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+2. [AJAX Crash Course - English](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
+3. [JSON Crash Course - English](https://www.youtube.com/watch?v=wI1CWzNtE-M)
+
+OR
+
+1. [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
 ___
 ## 5.  Backend Web Technologies PHP & Laravel - Beginner Level:
