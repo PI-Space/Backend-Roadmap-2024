@@ -142,10 +142,17 @@ ___
 ## 4. Introduction To Web Development - Beginner Level:
 
 - Client-Server Model
-- HTTP
+    - [Client-Server Architecture-1](https://www.youtube.com/watch?v=L5BlpPU_muY&ab_channel=TheTechCave)
+    - [Client-Server Architecture-2](https://www.youtube.com/watch?v=Zfmk0GtANNs&ab_channel=MacOSPro)
+- HTTP & Intro to HTTP Methods
+    - [HTTP Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia)
+    - [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY&ab_channel=Ebrahem)
+- Basics of API and REST architectural style
+    - [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos)
+    - [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
 - Dynamic vs Static Sites
-- Intro to HTTP Methods
 - Inside the Web Application: MVC
+
 - [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 - [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
