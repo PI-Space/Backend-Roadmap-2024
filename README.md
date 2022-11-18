@@ -379,3 +379,11 @@ ___
 - [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
 - [Laravel Interview Questions - Java Point](https://www.javatpoint.com/laravel-interview-questions)
 - [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
+
+### Resume & CV
+
+#### Harvard resources
+- [Resume & Cover Letter Tips and Templates](https://t.co/q2hukYUdGZ)
+- [More Resume Templates](https://t.co/UAdonLL8Zi)
+- [Document on CVs and Cover Letters](https://t.co/hbieZBGNc4)
+- [How to Write a Resume](https://www.youtube.com/watch?v=lcgS0kaIgng)
