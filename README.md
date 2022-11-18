@@ -287,6 +287,9 @@ OR
 ##### Useful laravel packages
 1. [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
+##### Laravel Advanced Concepts
+1. [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+
 ___
 ## 7. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
 
