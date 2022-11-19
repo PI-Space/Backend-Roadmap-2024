@@ -8,17 +8,27 @@ ___
 
 ## Index:
 
-- [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
-- [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
-- [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
-- [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
-- [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner-level) 
-- [Backend Web Technologies Laravel - Intermediate Level](#6--backend-web-technologies-laravel---intermediate-level) 
-- [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
-- [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
-- [Integration & deployment - Advanced Level](#9-integration-and-deployment---advanced-level)
-- [Web Application Security - Advanced Level](#10-web-application-security---advanced-level)
-- [Interview Preparation](#11-interview-preparation)
+🔗 [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
+
+🔗 [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
+
+🔗 [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
+
+🔗 [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
+
+🔗 [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner-level) 
+
+🔗 [Backend Web Technologies Laravel - Intermediate Level](#6--backend-web-technologies-laravel---intermediate-level) 
+
+🔗 [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
+
+🔗 [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
+
+🔗 [Integration & deployment - Advanced Level](#9-integration-and-deployment---advanced-level)
+
+🔗 [Web Application Security - Advanced Level](#10-web-application-security---advanced-level)
+
+🔗 [Interview Preparation](#11-interview-preparation)
 ___
 ## 1. Computer Science Essentials & Basics - Entry Level
 
