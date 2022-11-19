@@ -448,3 +448,6 @@ ___
 📄 [Document on CVs and Cover Letters](https://t.co/hbieZBGNc4)
 
 📹 [How to Write a Resume](https://www.youtube.com/watch?v=lcgS0kaIgng)
+
+#### Websites
+🖇️ [A GOOD Resume - Career CUP](https://www.careercup.com/resume)
