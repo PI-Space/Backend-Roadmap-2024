@@ -230,6 +230,7 @@ OR
 📹 [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
 
 > Instead of studying the previous 2 playlists you can read this book: Paid
+
 📖 [Front Line PHP](https://front-line-php.com/)
 
 ### PHP - OOP
