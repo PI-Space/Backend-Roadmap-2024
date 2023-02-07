@@ -154,7 +154,9 @@ _you should never start coding without first thinking and modeling what you will
 
 ## Development Tools & IDEs:
 <details>
+
   <summary>Git & GitHub</summary>
+  
 📹 [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 📹 [Git & GitHub - English, Google Course](https://www.coursera.org/learn/introduction-git-github)
@@ -162,11 +164,14 @@ _you should never start coding without first thinking and modeling what you will
 OR 
 
 📹 [Git & GitHub - Arabic, Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+
 </details>
 
 <details>
   <summary>Editors</summary>
+  
 #### Editors
+
 🖇️ [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
 
 🖇️ [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
