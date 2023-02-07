@@ -534,8 +534,7 @@ ___
 📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
   
   </details>
-  
-___
+
 
 ### Write Great Software:
 
@@ -589,9 +588,7 @@ ___
 
 </details>
 
-___
-
-## Integration and Deployment:
+### Integration and Deployment:
 
 <details>
 
