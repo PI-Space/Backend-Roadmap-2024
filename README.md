@@ -1,4 +1,4 @@
-# Backend Roadmap 2022
+# Backend Roadmap 2023
 ___
 
 ## Video for Roadmap Clarification
@@ -6,39 +6,32 @@ ___
 
 ![Backend Roadmap Explination](Backend-Roadmap.jpg)
 
-## Index:
+## General Index:
 
-🔗 [Computer Science Essentials & Basics - Entry Level](#1-computer-science-essentials--basics---entry-level)
+🔗 [Entry - Computer Science Essentials & Basics ](#entry---computer-science-essentials-&-basics)
 
-🔗 [UML & Modeling - Requirements Analysis - Beginner Level](#2-uml--modeling---requirements-analysis---beginner-level)
+🔗 [Beginner General](#beginner-general)
 
-🔗 [Necessary Development Tools - Beginner Level](#3-development-tools--ides---beginner-level)
+🔗 [Beginner & Intermediate Web Technologies](#beginner-&-intermediate-web-technologies)
 
-🔗 [Introduction To Web Development - Beginner Level](#4-introduction-to-web-development---beginner-level)
+🔗 [Intermediate General](#intermediate-general)
 
-🔗 [Backend Web Technologies PHP & Laravel - Beginner & Intermediate Level](#5--backend-web-technologies-php--laravel---beginner-level) 
+🔗 [Advanced ](#advanced )
 
-🔗 [Backend Web Technologies Laravel - Intermediate Level](#6--backend-web-technologies-laravel---intermediate-level) 
-
-🔗 [Dive Into More Computer Science Essentials - Intermediate & Advanced Level](#7-dive-into-more-computer-science-essentials---intermediate--advanced-level)
-
-🔗 [Write Great Software - Intermediate & Advanced Level](#8-write-great-software---intermediate--advanced-level)
-
-🔗 [Integration & deployment - Advanced Level](#9-integration-and-deployment---advanced-level)
-
-🔗 [Web Application Security - Advanced Level](#10-web-application-security---advanced-level)
-
-🔗 [Interview Preparation](#11-interview-preparation)
+🔗 [Interview Preparation](#interview-Preparation)
 ___
-## 1. Computer Science Essentials & Basics - Entry Level
+
+## Entry - Computer Science Essentials & Basics
 
 #### Notes:
 _1. Don't study this section sequentially, study all topics altogether at the same time._
 
 _2. Before you start, you should know that you are going to learn a lot of things about computer science._
 
-**3. _DON'T GO AND RUSH TO A TECHNOLOGY!_**
+_3. _DON'T GO AND RUSH TO A TECHNOLOGY!_
 
+<details>
+  <summary>Introduction to Computer Science</summary>
 
 ### Introduction to Computer Science
 There are two great courses, One provided by MIT, the second provided by Harvard
@@ -58,8 +51,10 @@ OR
 _If you want CS 50 Translated
 
 📹 [مترجم بالعربي CS50 2020](https://www.youtube.com/playlist?list=PLE-xA_CUmS2Zu3RUXjuh9KyFcavl8hQ0_)
-
-### Data Structure and Algorithms
+</details>
+    
+<details>
+  <summary>Data Structure and Algorithms</summary>
 
 #### Videos
 
@@ -76,11 +71,11 @@ OR
 📖 [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
 
 📖 [Algorithms Unplugged - More Advanced](https://link.springer.com/book/10.1007/978-3-642-15328-0)
+</details>
 
-
-### Introduction to Databases
-
-#### Videos
+<details>
+  <summary>Introduction to Databases</summary>
+    #### Videos
 📹 [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 📹 [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
@@ -98,9 +93,11 @@ OR
 
 #### Books
 📖 [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
+</details>
 
-### Introduction to Operating Systems
 
+<details>
+  <summary>Introduction to Operating Systems</summary>
 #### Videos
 
 1. CS 162, 2019, UC Berkeley - _This is very comprehensive course, it's okay if you study it along with the other materials_.
@@ -116,21 +113,26 @@ OR
 
 📖 [OPERATING SYSTEMS THREE EASY PIECES - Entry Level](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+</details>
 
-### How Internet Works?
-
-📹 [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
 ___
+## Beginner General 
 
-## 2. UML & Modeling - Requirements Analysis - Beginner Level:
+🔗 [UML & Modeling - Requirements Analysis](#uml&-modeling---requirements-analysis)
+
+🔗 [Development Tools & IDEs](#development-tools-&-iDEs)
+
+
+## UML & Modeling - Requirements Analysis:
 
 #### Notes:
 
 _you should never start coding without first thinking and modeling what you will actually be coding._
 
 
-
+<details>
+  <summary>Software Requirements Analysis & UML</summary>
 #### Articles
 📄 [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
 
@@ -141,10 +143,13 @@ _you should never start coding without first thinking and modeling what you will
 #### Books
 📖 [UML Distilled](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
-___
-## 3. Development Tools & IDEs - Beginner Level:
 
-#### Git & GitHub
+</details>
+___
+
+## Development Tools & IDEs:
+<details>
+  <summary>Git & GitHub</summary>
 📹 [Git & GitHub - English, Freecodecamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 📹 [Git & GitHub - English, Google Course](https://www.coursera.org/learn/introduction-git-github)
@@ -152,11 +157,15 @@ ___
 OR 
 
 📹 [Git & GitHub - Arabic, Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
+</details>
 
+<details>
+  <summary>Editors</summary>
 #### Editors
 🖇️ [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
 
 🖇️ [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
+</details>
 ___
 ## 4. Introduction To Web Development - Beginner Level:
 
@@ -169,6 +178,10 @@ ___
 📹 [HTTP Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia)
 
 📹 [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY&ab_channel=Ebrahem)
+
+### How Internet Works?
+
+📹 [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
 #### Basics of API and REST architectural style
 📹 [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos)
