@@ -14,9 +14,9 @@ ___
 
 🔗 [Beginner & Intermediate Web Technologies](#beginner-&-intermediate-web-technologies)
 
-🔗 [Intermediate & Advanced General](#intermediate-general)
+🔗 [Intermediate & Advanced General](#intermediate-&-advanced-general)
 
-🔗 [Interview Preparation](#interview-Preparation)
+🔗 [Interview Preparation](#interview-preparation)
 ___
 
 ## Entry - Computer Science Essentials & Basics
@@ -269,7 +269,7 @@ OR
 </details>
 
 
-## Beginner & Intermediate Web Technologies Index
+## Beginner & Intermediate Web Technologies:
 
 🔗 [Laravel](#uml&-modeling---requirements-analysis)
 
@@ -277,8 +277,9 @@ OR
 
 🔗 [ASP.net](#development-tools-&-iDEs)
 
-## Laravel 
-#### Beginner
+## Laravel:
+
+#### Beginner:
 
 <details>
 
@@ -408,7 +409,7 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 </details>
 
-#### Intermediate
+#### Intermediate:
 
 <details>
   
@@ -475,14 +476,15 @@ OR
 
 ___
 
-## Intermediate & Advanced General
+## Intermediate & Advanced General:
+
 🔗 [ Dive Into More Computer Science Essentials](#dive-into-more-computer-science-essentials)
 
 🔗 [Write Great Software](#write-great-software)
 
 🔗 [Integration and Deployment](#integration-and-deployment)
 
-## Dive Into More Computer Science Essentials:
+### Dive Into More Computer Science Essentials:
 
 </details>
 
@@ -535,7 +537,7 @@ ___
   
 ___
 
-## Write Great Software:
+### Write Great Software:
 
 
 <details>
@@ -586,6 +588,7 @@ ___
 📖 [Martin Fowler](https://martinfowler.com/books/)
 
 </details>
+
 ___
 
 ## Integration and Deployment:
@@ -630,7 +633,8 @@ ___
   </details>
 
 ___
-## 11. Interview Preparation
+
+## Interview Preparation:
 
 
 <details>
