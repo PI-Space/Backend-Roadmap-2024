@@ -19,7 +19,7 @@ ___
 🔗 [Interview Preparation](#interview-preparation)
 ___
 
-## Entry - Computer Science Essentials & Basics
+## Entry - Computer Science Essentials & Basics:
 
 #### Notes:
 _1. Don't study this section sequentially, study all topics altogether at the same time._
