@@ -125,7 +125,7 @@ OR
 🔗 [Development Tools & IDEs](#development-tools--ides)
 
 
-## UML & Modeling - Requirements Analysis:
+### UML & Modeling - Requirements Analysis:
 
 #### Notes:
 
@@ -150,7 +150,8 @@ _you should never start coding without first thinking and modeling what you will
 </details>
 
 
-## Development Tools & IDEs:
+### Development Tools & IDEs:
+
 <details>
 
   <summary>Git & GitHub</summary>
