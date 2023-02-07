@@ -14,9 +14,7 @@ ___
 
 🔗 [Beginner & Intermediate Web Technologies](#beginner-&-intermediate-web-technologies)
 
-🔗 [Intermediate General](#intermediate-general)
-
-🔗 [Advanced ](#advanced )
+🔗 [Intermediate & Advanced General](#intermediate-general)
 
 🔗 [Interview Preparation](#interview-Preparation)
 ___
@@ -175,6 +173,13 @@ OR
 🖇️ [PHPStorm - Recommended](https://www.jetbrains.com/phpstorm/) 
 
 🖇️ [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
+
+##### Master your editor:
+
+📹 [Phpstorm]( https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
+
+📹 [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
+
 </details>
 
 
@@ -403,21 +408,22 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 </details>
 
+#### Intermediate
 
-##### Master your editor:
-
-📹 [Phpstorm]( https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
-
-📹 [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
-
-##### Read about laravel best practices & Tips
+<details>
+  <summary>Read about laravel best practices & Tips</summary>
+  
 📄 [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
 
 📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
 
 🖇️ [LaravelDaily](https://www.youtube.com/c/LaravelDaily) 
 
-##### testing laravel:
+</details>
+
+<details>
+  <summary>Laravel Testing</summary>
+
 📹 [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
 
 OR
@@ -429,22 +435,37 @@ OR
 ##### PEST framework:
 📹 [Learn Pest](https://www.youtube.com/watch?v=lEvau6CgqPE)
 
+</details>
 
-##### Mastring ORM: Paid
+<details>
+  <summary>Mastring ORM: Paid</summary>
+
+
 📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
 
+</details>
 
+<details>
 
-##### Laravel package development :
+  <summary>Laravel package development</summary>
+
 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
+</details>
 
-##### Useful laravel packages
+<details>
+  <summary>Useful laravel packages</summary>
+
 📹 [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
 
 
-##### Laravel Advanced Concepts
+</details>
+
+<details>
+  <summary>Laravel Advanced Concepts</summary>
+
 📹 [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+<details>
 
 ___
 ## 7. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
