@@ -8,13 +8,13 @@ ___
 
 ## General Index:
 
-🔗 [Entry - Computer Science Essentials & Basics ](#entry---computer-science-essentials-&-basics)
+🔗 [Entry - Computer Science Essentials & Basics ](#entry---computer-science-essentials---basics)
 
 🔗 [Beginner General](#beginner-general)
 
-🔗 [Beginner & Intermediate Web Technologies](#beginner-&-intermediate-web-technologies)
+🔗 [Beginner & Intermediate Web Technologies](#beginner---intermediate-web-technologies)
 
-🔗 [Intermediate & Advanced General](#intermediate-&-advanced-general)
+🔗 [Intermediate & Advanced General](#intermediate---advanced-general)
 
 🔗 [Interview Preparation](#interview-preparation)
 ___
