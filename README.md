@@ -120,9 +120,9 @@ OR
 
 ## Beginner General 
 
-🔗 [UML & Modeling - Requirements Analysis](#uml&-modeling---requirements-analysis)
+🔗 [UML & Modeling - Requirements Analysis](#uml---modeling---requirements-analysis)
 
-🔗 [Development Tools & IDEs](#development-tools-&-iDEs)
+🔗 [Development Tools & IDEs](#development-tools---iDEs)
 
 
 ## UML & Modeling - Requirements Analysis:
