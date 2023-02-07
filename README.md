@@ -524,7 +524,8 @@ OR
 
 <details>
   
- <summary>Django - Projects </summary>
+ <summary>Django - Basics </summary>
+  
   
 [Python Django - Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)
   
@@ -534,24 +535,13 @@ OR
 
 <summary>Django - Projects </summary>
 
+
 [Build a Social Media App with Django ](https://www.youtube.com/watch?v=xSUm6iMtREA)
   
 [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
   
 </details>
   
-<details>
-
-<summary>Django - Projects </summary>
-
-
-[Build a Django REST API with the Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs)
-
-[Django REST Framework Course](https://www.youtube.com/watch?v=tujhGdn1EMI)
-
-  
-</details>
-
 
 #### Intermediate:
   
