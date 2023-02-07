@@ -8,13 +8,13 @@ ___
 
 ## General Index:
 
-🔗 [Entry - Computer Science Essentials & Basics ](#entry---computer-science-essentials---basics)
+🔗 [Entry - Computer Science Essentials & Basics ](#entry---computer-science-essentials--basics)
 
 🔗 [Beginner General](#beginner-general)
 
-🔗 [Beginner & Intermediate Web Technologies](#beginner---intermediate-web-technologies)
+🔗 [Beginner & Intermediate Web Technologies](#beginner--intermediate-web-technologies)
 
-🔗 [Intermediate & Advanced General](#intermediate---advanced-general)
+🔗 [Intermediate & Advanced General](#intermediate--advanced-general)
 
 🔗 [Interview Preparation](#interview-preparation)
 ___
@@ -120,9 +120,9 @@ OR
 
 ## Beginner General 
 
-🔗 [UML & Modeling - Requirements Analysis](#uml---modeling---requirements-analysis)
+🔗 [UML & Modeling - Requirements Analysis](#uml--modeling---requirements-analysis)
 
-🔗 [Development Tools & IDEs](#development-tools---iDEs)
+🔗 [Development Tools & IDEs](#development-tools--ides)
 
 
 ## UML & Modeling - Requirements Analysis:
@@ -271,11 +271,11 @@ OR
 
 ## Beginner & Intermediate Web Technologies:
 
-🔗 [Laravel](#uml&-modeling---requirements-analysis)
+🔗 [Laravel](#laravel)
 
-🔗 [Django](#development-tools-&-iDEs)
+🔗 [Django](#django)
 
-🔗 [ASP.net](#development-tools-&-iDEs)
+🔗 [ASP.net](#asp.net)
 
 ## Laravel:
 
