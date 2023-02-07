@@ -572,7 +572,7 @@ ___
 📖 [Martin Fowler](https://martinfowler.com/books/)
 
 ___
-## 9. Integration and Deployment - Advanced Level:
+## Integration and Deployment:
 
 ### CI CD
 📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
