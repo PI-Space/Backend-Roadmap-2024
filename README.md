@@ -344,52 +344,65 @@ OR
 </details>
 
 
-##### Videos
-1. 📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+<details>
 
-2. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+<summary>Laravel Basics</summary>
+
+### Videos
+
+1. 📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+2. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+
+</details>
+
+<details>
+
+<summary>Laravel Projects</summary>
 
 After you finish, Watch & Apply in section number 14 in this playlist
 
-3. 📹 [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
+1. 📹 [laravel 6 from scratch](https://laracasts.com/series/laravel-6-from-scratch)
 
 > After you implement Tweety app (in the laravel 6 series) you will follow these tutorials for more projects
-
-4. 📹 [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
-
-5. 📹[Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
-
+> 
+1. 📹 [Build an instagram clone](https://www.youtube.com/watch?v=ImtZ5yENzgE)
+2. 📹[Job listings application | Traversy Media](https://www.youtube.com/watch?v=MYyJ4PuL4pY&list=LL&index=2)
 
 > After you finish, It's time to finish things on your own with two projects:
+> 
 
-##### 🖇️ Project 1:
-Use  this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as reference to system requirements and build your own system.
+### 🖇️ Project 1:
 
-##### 🖇️ Project 2:
-Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
+Use this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as reference to system requirements and build your own system.
 
-> note that admin dashboard is required - you may use [Orchid](https://orchid.software/en/)  or you can use any other dashboard you like.
+### 🖇️ Project 2:
 
-##### 🖇️ Project 3:
+Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
 
-Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard
-[you can use any of these templates ](https://bootstrapmade.com/bootstrap-resume-cv-templates/):
+> note that admin dashboard is required - you may use Orchid or you can use any other dashboard you like.
+> 
 
-##### Building API
-📹 [ [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
+### 🖇️ Project 3:
 
-📹 [ [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard [you can use any of these templates](https://bootstrapmade.com/bootstrap-resume-cv-templates/) :
 
-📹 [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
+</details>
+
+<details>
+
+<summary>Laravel API</summary>
+
+📹  [Laravel API - 1](https://www.youtube.com/watch?v=mgdMeXkviy8)
+
+📹  [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
+
+📹 [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
 
 > now you must have basic understanding to the framework that could get you to the next level
 
-___
-## 6.  Backend Web Technologies Laravel - Intermediate Level:
 
-#### Intermediate Level - Beyond the basics
+</details>
 
-> now you need to be familiar with some advanced topics such as:
 
 ##### Master your editor:
 
