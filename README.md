@@ -478,6 +478,94 @@ OR
   
 </details>
 
+
+## Django & Python:
+
+#### Beginner:
+
+<details>
+
+<summary>Python - Baiscs </summary>
+  
+[Python - Mosh - English](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+ 
+  OR
+  
+[Pthon - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
+  
+  OR
+  
+[Python - Codezilla - Arabic](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+  
+
+</details>
+
+
+
+<details>
+
+<summary>Python - OOP </summary>
+
+  
+[Pthon OOP - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
+</details>
+
+<details>
+
+<summary>Python - Projects </summary>
+
+  
+[Python Project Tutorial ](https://www.youtube.com/watch?v=rfscVS0vtbw)
+  
+[12 Beginner Python Projects](https://www.youtube.com/watch?v=8ext9G7xspg)
+
+</details>
+
+<details>
+  
+ <summary>Django - Projects </summary>
+  
+[Python Django - Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)
+  
+</details>
+
+</details>
+
+<summary>Django - Projects </summary>
+
+[Build a Social Media App with Django ](https://www.youtube.com/watch?v=xSUm6iMtREA)
+  
+[How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+  
+</details>
+  
+<details>
+
+<summary>Django - Projects </summary>
+
+
+[Build a Django REST API with the Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs)
+
+[Django REST Framework Course](https://www.youtube.com/watch?v=tujhGdn1EMI)
+
+  
+</details>
+
+
+#### Intermediate:
+  
+  
+<details>
+
+<summary>Django - Testing </summary>
+
+
+[ Django Testing Tutorial](https://www.youtube.com/playlist?list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
+  
+  
+</details>
+
 ___
 
 ## Intermediate & Advanced General:
