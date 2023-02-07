@@ -531,7 +531,7 @@ OR
   
 </details>
 
-</details>
+<details>
 
 <summary>Django - Projects </summary>
 
