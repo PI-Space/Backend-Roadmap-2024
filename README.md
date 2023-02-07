@@ -28,7 +28,7 @@ _1. Don't study this section sequentially, study all topics altogether at the sa
 
 _2. Before you start, you should know that you are going to learn a lot of things about computer science._
 
-_3. _DON'T GO AND RUSH TO A TECHNOLOGY!_
+_3. DON'T GO AND RUSH TO A TECHNOLOGY!_
 
 <details>
   <summary>Introduction to Computer Science</summary>
@@ -75,7 +75,8 @@ OR
 
 <details>
   <summary>Introduction to Databases</summary>
-    #### Videos
+  
+  #### Videos
 📹 [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 📹 [MySQL Tutorial for Beginners [Mosh]](https://www.youtube.com/watch?v=7S_tz1z_5bA&ab_channel=ProgrammingwithMosh)
@@ -92,12 +93,14 @@ OR
 
 
 #### Books
+
 📖 [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
 </details>
 
 
 <details>
   <summary>Introduction to Operating Systems</summary>
+  
 #### Videos
 
 1. CS 162, 2019, UC Berkeley - _This is very comprehensive course, it's okay if you study it along with the other materials_.
@@ -116,7 +119,7 @@ OR
 </details>
 
 
-___
+
 ## Beginner General 
 
 🔗 [UML & Modeling - Requirements Analysis](#uml&-modeling---requirements-analysis)
@@ -132,7 +135,9 @@ _you should never start coding without first thinking and modeling what you will
 
 
 <details>
+
   <summary>Software Requirements Analysis & UML</summary>
+  
 #### Articles
 📄 [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
 
@@ -145,7 +150,7 @@ _you should never start coding without first thinking and modeling what you will
 
 
 </details>
-___
+
 
 ## Development Tools & IDEs:
 <details>
@@ -166,36 +171,70 @@ OR
 
 🖇️ [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 </details>
-___
-## 4. Introduction To Web Development - Beginner Level:
 
-#### Client-Server Model
+
+### Introduction To Web Development:
+
+<details>
+
+<summary>Client-Server Model</summary> 
+
+
 📹 [Client-Server Architecture-1](https://www.youtube.com/watch?v=L5BlpPU_muY&ab_channel=TheTechCave)
 
 📹 [Client-Server Architecture-2](https://www.youtube.com/watch?v=Zfmk0GtANNs&ab_channel=MacOSPro)
 
-#### HTTP & Intro to HTTP Methods
+</details>
+
+<details>
+
+<summary>HTTP & Intro to HTTP Methods</summary>
+
+
 📹 [HTTP Exploration - English](https://www.youtube.com/watch?v=iYM2zFP3Zn0&ab_channel=TraversyMedia)
 
 📹 [HTTP Exploration - Arabic](https://www.youtube.com/watch?v=PsdimP_-TKY&ab_channel=Ebrahem)
 
-### How Internet Works?
+</details>
+
+<details>
+
+<summary>How Internet Works?</summary>
+
 
 📹 [How the Internet Works - Entry Level](https://www.youtube.com/watch?v=zN8YNNHcaZc)
 
-#### Basics of API and REST architectural style
+</details>
+
+<details>
+
+<summary>Basics of API and REST architectural style</summary>
+
+
 📹 [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos)
 
 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
 
-- Dynamic vs Static Sites
-- Inside the Web Application: MVC
+</details>
+
+<details>
+
+<summary>Backend Group Video</summary>
+
 
 📽️ [Eyad Hamza, CIS - Backend Group Video Preparation](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 
 📽️ [Eyad Hamza, CIS - Backend Group Slides](https://docs.google.com/presentation/d/1WQucQc--17Tp_mujG-cvCddPKYS914sv/edit?usp=sharing&ouid=104951081209307227102&rtpof=true&sd=true)
 
-### HTML & CSS 
+</details>
+
+<details>
+
+
+<summary>Frontend Basics </summary>
+
+### HTML & CSS
+
 📹 [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
 📹 [CSS - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
@@ -217,36 +256,74 @@ OR
 
 📹 [Javascript Json & Api- Arabic From Video 169 to End](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
 
-___
-## 5.  Backend Web Technologies PHP & Laravel - Beginner Level:
+</details>
 
 
-### PHP - Baiscs
-#### Videos to Learn PHP Basics
+## Beginner & Intermediate Web Technologies Index
+
+🔗 [Laravel](#uml&-modeling---requirements-analysis)
+
+🔗 [Django](#development-tools-&-iDEs)
+
+🔗 [ASP.net](#development-tools-&-iDEs)
+
+## Laravel 
+#### Beginner
+
+<details>
+
+<summary>PHP - Baiscs </summary>
+
 
 📹 [Getting to know the basics - PHP 8 - Arabic](https://www.youtube.com/watch?v=xcg9qq6SZ0w&list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq) 
 
 OR
 
-📹 [PHP For Beginners Laracasts - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+📹 [Getting to know the basics - PHP- FreeCodeCamp - English](https://www.youtube.com/watch?v=OK_JCtrrv-c) 
 
-#### Videos to Apply in MVC Project
-> Choose at least two
+
+</details>
+
+<details>
+
+<summary>PHP - MVC </summary>
+
 📹 [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
+
+📹 [PHP For Beginners Laracasts 2023-edition - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+
+OR
 
 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
 
+</details>
+
+<details>
+
+<summary>PHP Projects </summary>
+
+
 📹 [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
 
-#### Videos to Understand what is New
+</details>
+
+<details>
+
+<summary>PHP Updates </summary>
+
 
 📹 [What is new in PHP 8](https://laracasts.com/series/php8-crash-course)
 
-> Instead of studying the previous 2 playlists you can read this book: Paid
 
 📖 [Front Line PHP](https://front-line-php.com/)
 
-### PHP - OOP
+</details>
+
+<details>
+
+<summary>PHP - OOP </summary>
+
+
 ##### Videos:
 > Choose at least two
 
@@ -259,9 +336,8 @@ OR
 ##### Books:
 📖 [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
 
-### Laravel - Beginner Level:
+</details>
 
-#### Beginner Level - The basics and beyond
 
 ##### Videos
 1. 📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
