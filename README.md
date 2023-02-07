@@ -487,15 +487,15 @@ OR
 
 <summary>Python - Baiscs </summary>
   
-[Python - Mosh - English](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+📹 [Python - Mosh - English](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
  
   OR
   
-[Pthon - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
+📹 [Pthon - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
   
   OR
   
-[Python - Codezilla - Arabic](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
+📹 [Python - Codezilla - Arabic](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ)
   
 
 </details>
@@ -507,7 +507,7 @@ OR
 <summary>Python - OOP </summary>
 
   
-[Python OOP - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
+📹 [Python OOP - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 </details>
 
@@ -516,9 +516,9 @@ OR
 <summary>Python - Projects </summary>
 
   
-[Python Project Tutorial ](https://www.youtube.com/watch?v=rfscVS0vtbw)
+📹 [Python Project Tutorial ](https://www.youtube.com/watch?v=rfscVS0vtbw)
   
-[12 Beginner Python Projects](https://www.youtube.com/watch?v=8ext9G7xspg)
+📹 [12 Beginner Python Projects](https://www.youtube.com/watch?v=8ext9G7xspg)
 
 </details>
 
@@ -527,7 +527,7 @@ OR
  <summary>Django - Basics </summary>
   
   
-[Python Django - Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)
+📹 [Python Django - Traversy Media](https://www.youtube.com/watch?v=PtQiiknWUcI)
   
 </details>
 
@@ -536,9 +536,9 @@ OR
 <summary>Django - Projects </summary>
 
 
-[Build a Social Media App with Django ](https://www.youtube.com/watch?v=xSUm6iMtREA)
+📹 [Build a Social Media App with Django ](https://www.youtube.com/watch?v=xSUm6iMtREA)
   
-[How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
+📹 [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
   
 </details>
   
@@ -551,7 +551,7 @@ OR
 <summary>Django - Testing </summary>
 
 
-[ Django Testing Tutorial](https://www.youtube.com/playlist?list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
+📹 [ Django Testing Tutorial](https://www.youtube.com/playlist?list=PLbpAWbHbi5rMF2j5n6imm0enrSD9eQUaM)
   
   
 </details>
@@ -567,13 +567,13 @@ OR
 <summary>C# - Baiscs </summary>
 
   
-[C# - FreeCodeCamp - English](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+📹 [C# - FreeCodeCamp - English](https://www.youtube.com/watch?v=GhQdlIFylQ8)
   
-[C# - Mosh - English](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+📹 [C# - Mosh - English](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
   
   OR
   
-[C# - Hassouna Academy - Arabic](https://www.youtube.com/playlist?list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
+📹 [C# - Hassouna Academy - Arabic](https://www.youtube.com/playlist?list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
   
 
 </details>
@@ -584,7 +584,7 @@ OR
 <summary>C# - OOP </summary>
 
   
-[C# OOP - AvetisCodes - English](https://www.youtube.com/playlist?list=PLylgIRlJtHWRqlr1gtx3UgWXIzFS2ms9N)
+📹 [C# OOP - AvetisCodes - English](https://www.youtube.com/playlist?list=PLylgIRlJtHWRqlr1gtx3UgWXIzFS2ms9N)
 
 </details>
 
@@ -594,9 +594,9 @@ OR
 <summary>Asp.net - Basics </summary>
 
   
-[C# Full Course - Learn C# 10 and .NET 6](https://www.youtube.com/playlist?list=PLylgIRlJtHWRqlr1gtx3UgWXIzFS2ms9N](https://www.youtube.com/watch?v=q_F4PyW8GTg)
+📹 [C# Full Course - Learn C# 10 and .NET 6](https://www.youtube.com/watch?v=q_F4PyW8GTg)
   
-[Introduction to ASP.NET Core MVC in C# plus LOTS of Tips - IAmTimCorey](https://www.youtube.com/watch?v=1ck9LIBxO14)
+📹 [Introduction to ASP.NET Core MVC in C# plus LOTS of Tips - IAmTimCorey](https://www.youtube.com/watch?v=1ck9LIBxO14)
   
 </details>
 
@@ -605,9 +605,9 @@ OR
 
 <summary>ASP.net - Projects </summary>
   
-[Create a C# Application from Start to Finish - IAmTimCorey](https://www.youtube.com/watch?v=wfWxdh-_k_4)
+📹 [Create a C# Application from Start to Finish - IAmTimCorey](https://www.youtube.com/watch?v=wfWxdh-_k_4)
   
-[Build an Expense Tracker with Asp.Net Core MVC](https://www.youtube.com/watch?v=zQ5eijfpuu8)
+📹 [Build an Expense Tracker with Asp.Net Core MVC](https://www.youtube.com/watch?v=zQ5eijfpuu8)
   
 </details>
 
@@ -615,9 +615,9 @@ OR
 
 <summary>ASP.net - API </summary>
   
-[ASP.NET Rest - Arabic ](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t)
+📹 [ASP.NET Rest - Arabic ](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t)
   
-[Industry Level REST API using .NET 6 - Freecodecamp - English ](https://www.youtube.com/watch?v=PmDJIooZjBE)
+📹 [Industry Level REST API using .NET 6 - Freecodecamp - English ](https://www.youtube.com/watch?v=PmDJIooZjBE)
   
 </details>
 
@@ -627,7 +627,7 @@ OR
 
 <summary>Useful ASP.net Package</summary>
   
-[ASP.NET Core Toolkit/Packages/Labraries](https://www.youtube.com/playlist?list=PLOeFnOV9YBa6x8xcHqi80QvR5crFojLcF)
+📹 [ASP.NET Core Toolkit/Packages/Labraries](https://www.youtube.com/playlist?list=PLOeFnOV9YBa6x8xcHqi80QvR5crFojLcF)
   
 </details>
 
@@ -635,7 +635,7 @@ OR
 
 <summary>Best Practices</summary>
   
-[Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
+📹 [Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
   
 </details>
 
@@ -643,7 +643,7 @@ OR
 
 <summary>ASP.net Testing</summary>
   
-[ASP.NET Core C# - Unit Testing, Mocking, Integration Testing](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK)
+📹 [ASP.NET Core C# - Unit Testing, Mocking, Integration Testing](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK)
   
 </details>
 
@@ -651,7 +651,7 @@ OR
 
 <summary>ASP.net Different topics</summary>
   
-[Getting Started with C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
+📹 [Getting Started with C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
   
 </details>
 
@@ -659,7 +659,7 @@ OR
 
 <summary>ASP.net Advanced topics</summary>
   
-[Advanced Topics in C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
+📹 [Advanced Topics in C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
   
 </details>
 
