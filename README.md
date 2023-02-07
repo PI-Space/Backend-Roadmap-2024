@@ -474,12 +474,13 @@ OR
 </details>
 
 ___
+
 ## Intermediate & Advanced General
-🔗 [ Dive Into More Computer Science Essentials](#Dive Into More Computer Science Essentials)
+🔗 [ Dive Into More Computer Science Essentials](#dive-into-more-computer-science-essentials)
 
-🔗 [Write Great Software](#Write Great Software)
+🔗 [Write Great Software](#write-great-software)
 
-🔗 [Integration and Deployment](#Integration and Deployment)
+🔗 [Integration and Deployment](#integration-and-deployment)
 
 ## Dive Into More Computer Science Essentials:
 
@@ -531,7 +532,9 @@ ___
 📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
   
   </details>
+  
 ___
+
 ## Write Great Software:
 
 ### Object-Oriented Analysis and Design
