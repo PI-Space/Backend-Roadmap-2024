@@ -411,6 +411,7 @@ Build a website to show your cv where you can add your works, services, portfoli
 #### Intermediate
 
 <details>
+  
   <summary>Read about laravel best practices & Tips</summary>
   
 📄 [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
@@ -422,6 +423,7 @@ Build a website to show your cv where you can add your works, services, portfoli
 </details>
 
 <details>
+  
   <summary>Laravel Testing</summary>
 
 📹 [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
@@ -438,6 +440,7 @@ OR
 </details>
 
 <details>
+  
   <summary>Mastring ORM: Paid</summary>
 
 
@@ -454,6 +457,7 @@ OR
 </details>
 
 <details>
+  
   <summary>Useful laravel packages</summary>
 
 📹 [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
@@ -462,18 +466,36 @@ OR
 </details>
 
 <details>
+  
   <summary>Laravel Advanced Concepts</summary>
 
 📹 [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
-<details>
+  
+</details>
 
 ___
-## 7. Dive Into More Computer Science Essentials - Intermediate & Advanced Level:
+## Intermediate & Advanced General
+🔗 [ Dive Into More Computer Science Essentials](#Dive Into More Computer Science Essentials)
 
-### More Data Structures and Algorithms
+🔗 [Write Great Software](#Write Great Software)
+
+🔗 [Integration and Deployment](#Integration and Deployment)
+
+## Dive Into More Computer Science Essentials:
+
+</details>
+
+<details>
+  
+  <summary>More Data Structures and Algorithms</summary>
+
 📹 [Data Structures and Algorithms - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+</details>
 
-### More Database Systems
+<details>
+  
+  <summary>More Database Systems</summary>
+  
 📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 
 📹 [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
@@ -481,19 +503,36 @@ ___
 📖 [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 
 📹 [NoSQL Database Tutorial](https://www.youtube.com/watch?v=xh4gy1lbL2k)
+</details>
 
-### Operating Systems
+<details>
+  
+  <summary>Operating Systems</summary>
+  
 📹 [Operating Systems - Berkeley](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
+</details>
 
-### Distributed Systems
-
+<details>
+  
+  <summary>Distributed Systems</summary>
+  
 📹 [Distributed Systems University of Cambridge - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
 📄 [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
+  
+</details>
+
+<details>
+  
+  <summary>Web Application Security</summary>
+
+📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
+  
+  </details>
 ___
-## 8. Write Great Software - Intermediate & Advanced Level:
+## Write Great Software:
 
 ### Object-Oriented Analysis and Design
 📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
@@ -549,11 +588,6 @@ ___
 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
-
-___
-## 10. Web Application Security - Advanced Level:
-
-📖 [Web Application Security Book](https://www.oreilly.com/library/view/web-application-security/9781492053101/)
 
 ___
 ## 11. Interview Preparation
