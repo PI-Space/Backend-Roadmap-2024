@@ -537,10 +537,19 @@ ___
 
 ## Write Great Software:
 
-### Object-Oriented Analysis and Design
-📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 
-### Design Patterns & SOLID Principle 
+<details>
+
+<summary>Object-Oriented Analysis and Design</summary> 
+ 
+📖 [Head First Object-Oriented Analysis and Design](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+  
+</details>
+
+<details>
+
+<summary> Design Patterns & SOLID Principle </summary> 
+
 ##### Books
 
 📖 [Head First Design Pattern 2nd Edition](https://drive.google.com/file/d/1BmXIGt6CaMig1qXiqETQI5y3wsmh4N1z/view?usp=sharing)
@@ -563,39 +572,70 @@ ___
 ##### Website
 
 🖇️ [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
-    
-### Clean Code & Refactoring
+      
+</details>
+
+<details>
+
+<summary> Clean Code & Refactoring </summary> 
+
 📖 [Clean Code](https://github.com/ontiyonke/book-1/blob/master/%5BPROGRAMMING%5D%5BClean%20Code%20by%20Robert%20C%20Martin%5D.pdf)
 
 📖 [Refactoring To Patterns](https://github.com/abhinavkorpal/awesome-computer-science-EBook/blob/master/DesignPatterns/Refactoring%20To%20Patterns%20-%20Joshua%20Kerievsky.pdf)
 
 📖 [Martin Fowler](https://martinfowler.com/books/)
 
+</details>
 ___
 ## Integration and Deployment:
 
-### CI CD
+<details>
+
+<summary> CI CD </summary> 
+
 📹 [Continuous Integration And Continuous Delivery](https://www.youtube.com/watch?v=h9K1NnqwUvE&ab_channel=Simplilearn)
 
-### Container 
+        
+</details>
+
+<details>
+
+<summary>  Container </summary> 
+
 📹 [Docker - Free Code Camp - English](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org)
 
 📹 [Docker - TechWorld with Nana - English](https://www.youtube.com/watch?v=3c-iBn73dDE&ab_channel=TechWorldwithNana)
 
 📹 [Docker Practical Course - Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
+        
+</details>
 
-### Cloud
+<details>
+
+<summary>  Cloud </summary> 
+
 📹 [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+        
+</details>
 
-### Deployment
+<details>
+
+<summary>Deployment</summary> 
+
 📹 [Deploy on digital oceans](https://www.youtube.com/watch?v=QnNA7YdvCYA&list=PLseEp7p6EwiZrR_9dzp8d3AVcBqPz-HFZ&index=3)
 
 📹 [Deploy on shared hosting](https://www.youtube.com/watch?v=6g8G3YQtQt4)
+  
+  </details>
 
 ___
 ## 11. Interview Preparation
 
-### Interview Questions
+
+<details>
+
+<summary>Interview Questions</summary> 
+
 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
 
 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
@@ -604,7 +644,10 @@ ___
 
 🖇️ [Laravel Interview Questions - hackr.io](https://hackr.io/blog/top-laravel-interview-questions-and-answers)
 
-### Resume & CV
+ </details>
+<details>
+
+<summary> Resume & CV</summary> 
 
 #### Harvard resources
 📄 [Resume & Cover Letter Tips and Templates](https://t.co/q2hukYUdGZ)
@@ -619,3 +662,5 @@ ___
 🖇️ [A GOOD Resume - Career CUP](https://www.careercup.com/resume)
 
 🖇️[InterviewBit: Coding Interview Questions](https://www.interviewbit.com/)
+  
+ </details>
