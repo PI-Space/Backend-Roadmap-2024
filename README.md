@@ -507,7 +507,7 @@ OR
 <summary>Python - OOP </summary>
 
   
-[Pthon OOP - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
+[Python OOP - FreeCodeCamp - English](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 </details>
 
@@ -555,6 +555,114 @@ OR
   
   
 </details>
+
+
+## ASP.net & C#
+
+
+#### Beginner:
+
+<details>
+
+<summary>C# - Baiscs </summary>
+
+  
+[C# - FreeCodeCamp - English](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+  
+[C# - Mosh - English](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+  
+  OR
+  
+[C# - Hassouna Academy - Arabic](https://www.youtube.com/playlist?list=PLHIfW1KZRIfm8nQAoJF5u2aV43tMRAAmr)
+  
+
+</details>
+
+
+<details>
+
+<summary>C# - OOP </summary>
+
+  
+[C# OOP - AvetisCodes - English](https://www.youtube.com/playlist?list=PLylgIRlJtHWRqlr1gtx3UgWXIzFS2ms9N)
+
+</details>
+
+
+<details>
+
+<summary>Asp.net - Basics </summary>
+
+  
+[C# Full Course - Learn C# 10 and .NET 6](https://www.youtube.com/playlist?list=PLylgIRlJtHWRqlr1gtx3UgWXIzFS2ms9N](https://www.youtube.com/watch?v=q_F4PyW8GTg)
+  
+[Introduction to ASP.NET Core MVC in C# plus LOTS of Tips - IAmTimCorey](https://www.youtube.com/watch?v=1ck9LIBxO14)
+  
+</details>
+
+
+<details>
+
+<summary>ASP.net - Projects </summary>
+  
+[Create a C# Application from Start to Finish - IAmTimCorey](https://www.youtube.com/watch?v=wfWxdh-_k_4)
+  
+[Build an Expense Tracker with Asp.Net Core MVC](https://www.youtube.com/watch?v=zQ5eijfpuu8)
+  
+</details>
+
+<details>
+
+<summary>ASP.net - API </summary>
+  
+[ASP.NET Rest - Arabic ](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1X4QNF5wslJD6T96Owkg2t)
+  
+[Industry Level REST API using .NET 6 - Freecodecamp - English ](https://www.youtube.com/watch?v=PmDJIooZjBE)
+  
+</details>
+
+#### Intermediate:
+
+<details>
+
+<summary>Useful ASP.net Package</summary>
+  
+[ASP.NET Core Toolkit/Packages/Labraries](https://www.youtube.com/playlist?list=PLOeFnOV9YBa6x8xcHqi80QvR5crFojLcF)
+  
+</details>
+
+<details>
+
+<summary>Best Practices</summary>
+  
+[Best Practices for Building Async APIs with ASP.NET Core](https://www.youtube.com/watch?v=_T3kvAxAPpQ)
+  
+</details>
+
+<details>
+
+<summary>ASP.net Testing</summary>
+  
+[ASP.NET Core C# - Unit Testing, Mocking, Integration Testing](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4Q1a7V5jWTGG9RSpKMYTpK)
+  
+</details>
+
+<details>
+
+<summary>ASP.net Different topics</summary>
+  
+[Getting Started with C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY2GVsQZ-u3DPXqwwKW8MkiP)
+  
+</details>
+
+<details>
+
+<summary>ASP.net Advanced topics</summary>
+  
+[Advanced Topics in C# - IAmTimCorey](https://www.youtube.com/playlist?list=PLLWMQd6PeGY12yNE714jffLFnMVZCwvvZ)
+  
+</details>
+
 
 ___
 
