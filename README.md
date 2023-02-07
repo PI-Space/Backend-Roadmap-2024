@@ -516,7 +516,7 @@ OR
 <summary>Python - Projects </summary>
 
   
-📹 [Python Project Tutorial ](https://www.youtube.com/watch?v=rfscVS0vtbw)
+📹 [Python Project Tutorial ](https://www.youtube.com/watch?v=_ZqAVck-WeM)
   
 📹 [12 Beginner Python Projects](https://www.youtube.com/watch?v=8ext9G7xspg)
 
