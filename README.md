@@ -274,13 +274,13 @@ OR
 
 ## Beginner & Intermediate Web Technologies:
 
-🔗 [Laravel](#laravel)
+🔗 [Laravel & PHP](#laravel--php)
 
-🔗 [Django](#django)
+🔗 [Django & Python](#django--python)
 
-🔗 [ASP.net](#asp.net)
+🔗 [ASP.net & C#](#asp.net--c#)
 
-## Laravel:
+## Laravel & PHP:
 
 #### Beginner:
 
