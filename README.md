@@ -361,7 +361,11 @@ OR
 ### Videos
 
 1. 📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
+
 2. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+
+3. 📹 [Laravel From Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
+
 
 </details>
 
@@ -407,6 +411,9 @@ Build a website to show your cv where you can add your works, services, portfoli
 📹  [Laravel API - 2](https://www.youtube.com/watch?v=TTK8uQOjpT0)
 
 📹 [Laravel API & Sanctum Authentication](https://www.youtube.com/watch?v=MT-GJQIY3EU&t=2127s&ab_channel=TraversyMedia)
+
+📹 [Laravel API Crash Course](https://www.youtube.com/watch?v=xvqPEEpRBJ4&list=LL&index=2&t=11s)
+
 
 > now you must have basic understanding to the framework that could get you to the next level
 
