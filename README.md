@@ -301,6 +301,26 @@ OR
 
 <details>
 
+<summary>PHP - OOP </summary>
+
+
+##### Videos:
+> Choose at least two
+
+📹 [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
+
+📹 [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
+
+📹 [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
+
+##### Books:
+📖 [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
+
+</details>
+
+
+<details>
+
 <summary>PHP - MVC </summary>
 
 📹 [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
@@ -334,24 +354,7 @@ OR
 
 </details>
 
-<details>
 
-<summary>PHP - OOP </summary>
-
-
-##### Videos:
-> Choose at least two
-
-📹 [OOP - Arabic](https://youtube.com/playlist?list=PLDoPjvoNmBAxXTPncg0W4lhVS32LO_xtQ)
-
-📹 [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
-
-📹 [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
-
-##### Books:
-📖 [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
-
-</details>
 
 
 <details>
