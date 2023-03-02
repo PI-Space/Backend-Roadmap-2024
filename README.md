@@ -439,6 +439,25 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 <details>
   
+  <summary>Laravel Advanced Concepts</summary>
+
+📹 [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
+  
+</details>
+
+
+<details>
+  
+  <summary>Mastring ORM: Paid</summary>
+
+
+📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
+
+</details>
+
+
+<details>
+  
   <summary>Laravel Testing</summary>
 
 📹 [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
@@ -454,14 +473,6 @@ OR
 
 </details>
 
-<details>
-  
-  <summary>Mastring ORM: Paid</summary>
-
-
-📹 [Eloquent performance patterns](https://eloquent-course.reinink.ca/)
-
-</details>
 
 <details>
 
@@ -480,13 +491,7 @@ OR
 
 </details>
 
-<details>
-  
-  <summary>Laravel Advanced Concepts</summary>
 
-📹 [Laravel Advanced - Coder's Tape](https://www.youtube.com/watch?v=_z9nzEUgro4&list=PLpzy7FIRqpGD5pN3-Y66YDtxJCYuGumFO)
-  
-</details>
 
 
 ## Django & Python:
