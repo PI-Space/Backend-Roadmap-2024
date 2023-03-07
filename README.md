@@ -4,7 +4,7 @@ ___
 ## Video for Roadmap Clarification
 📽️ [CIS Campus 2022 Backend Video ](https://www.youtube.com/watch?v=845L6VI-Ekc)
 
-![Backend Roadmap Explination](Backend_Roadmap_.jpg)
+![Backend Roadmap Explination](Backend_Roadmap%20_.jpg)
 
 ## General Index:
 
