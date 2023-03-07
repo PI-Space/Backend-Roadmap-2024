@@ -200,6 +200,16 @@ OR
 
 <details>
 
+<summary>Basics of Web Development</summary> 
+  
+  
+📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
+ 
+
+</details>
+  
+<details>
+
 <summary>Client-Server Model</summary> 
 
 
