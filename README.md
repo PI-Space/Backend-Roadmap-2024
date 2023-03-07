@@ -198,16 +198,7 @@ OR
 
 ### Introduction To Web Development:
 
-<details>
 
-<summary>Basics of Web Development</summary> 
-  
-  
-📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
- 
-
-</details>
-  
 <details>
 
 <summary>Client-Server Model</summary> 
@@ -247,6 +238,16 @@ OR
 📹 [What is an API](https://www.youtube.com/watch?v=s7wmiS2mSXY&ab_channel=MuleSoftVideos)
 
 📹 [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4&ab_channel=CleverTechie)
+
+</details>
+
+<details>
+
+<summary>Basics of Web Development</summary> 
+  
+  
+📹 [Harvard - Web Basics](https://youtube.com/playlist?list=PLuhjguFxSeVLKwknVvGlBrskgQoti23ga)
+ 
 
 </details>
 
