@@ -132,7 +132,9 @@ ___
 
 🔗 [Development Tools & IDEs](#development-tools--ides)
 
-🔗 [Introduction To Web Development](#dintroduction-to-web-development)
+🔗 [Introduction To Web Development](#introduction-to-web-development)
+
+🔗 [Frontend Basics](#frontend-basics)
 
 
 ### UML & Modeling - Requirements Analysis:
@@ -249,12 +251,14 @@ OR
 
 </details>
 
+
+### Frontend Basics:
+
+
 <details>
 
+  <summary>HTML & CSS</summary>
 
-<summary>Frontend Basics </summary>
-
-### HTML & CSS
 
 📹 [HTML - Arabic](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 
@@ -266,7 +270,14 @@ OR
 
 📹 [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
-### Javascript
+</details>
+
+
+<details>
+
+  <summary>Javascript & Ajax & JSON </summary>
+
+
 📹 [JavaScript Intro - English](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 📹 [AJAX Crash Course - English](https://www.youtube.com/watch?v=82hnvUYY6QA&ab_channel=TraversyMedia)
