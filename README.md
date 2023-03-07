@@ -579,6 +579,16 @@ OR
   
 </details>
 
+<details>
+
+<summary>Django - ORM </summary>
+  
+
+📹 [ Django ORM Mastery Series -Very Academy ](https://www.youtube.com/playlist?list=PLOLrQ9Pn6cazjoDEnwzcdWWf4SNS0QZml)
+  
+  
+</details>
+
 
 ## ASP.net & C#
 
