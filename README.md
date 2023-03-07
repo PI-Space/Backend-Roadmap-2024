@@ -95,7 +95,15 @@ OR
 📖 [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
 </details>
 
+<details>
+  <summary>Software Analysis & Design</summary>
+ 
+#### Videos
 
+📹 [Software Analysis & Design Arabic Course](https://www.youtube.com/playlist?list=PLMzaNeHCFdm-0QIV9CuFZpIi_4-nKH4Xi)
+
+ </details>
+ 
 <details>
   <summary>Introduction to Operating Systems</summary>
   
