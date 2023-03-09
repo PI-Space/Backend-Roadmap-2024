@@ -521,6 +521,16 @@ OR
 
 </details>
 
+<details>
+  
+  <summary>Laravel Community and Ecosystem</summary>
+
+ [List of People to Follow](https://laraveldaily.com/people-to-follow)
+ 
+ [Laravel News & Updates](https://laravel-news.com/podcast)
+
+
+</details>
 
 
 
