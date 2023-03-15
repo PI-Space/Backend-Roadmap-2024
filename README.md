@@ -499,7 +499,10 @@ OR
 > after you finish those try this framework for easier testing:
 
 ##### PEST framework:
-📹 [Learn Pest](https://www.youtube.com/watch?v=lEvau6CgqPE)
+📹 [Learn PEST](https://www.youtube.com/watch?v=lEvau6CgqPE)
+
+📹 [Learn PEST Laracasts](https://laracasts.com/series/pest-from-scratch)
+
 
 </details>
 
