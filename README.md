@@ -501,7 +501,7 @@ OR
 ##### PEST framework:
 📹 [Learn PEST](https://www.youtube.com/watch?v=lEvau6CgqPE)
 
-📹 [Learn PEST Laracasts](https://laracasts.com/series/pest-from-scratch)
+📹 [Learn PEST - Laracasts](https://laracasts.com/series/pest-from-scratch)
 
 
 </details>
