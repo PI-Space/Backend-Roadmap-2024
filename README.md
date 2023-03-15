@@ -341,7 +341,7 @@ OR
 
 📹 [OOP - English](https://youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh)
 
-📹 [OOP - English](https://laracasts.com/series/object-oriented-bootcamp-in-php)
+📹 [OOP - English](https://laracasts.com/series/object-oriented-principles-in-php)
 
 ##### Books:
 📖 [programming php 4th edition - Oreilly](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/)
