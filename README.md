@@ -176,6 +176,8 @@ OR
 
 📹 [Git & GitHub - Arabic, Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 
+📹 [Git & GitHub - Arabic](https://www.youtube.com/watch?v=Q6G-J54vgKc)
+
 </details>
 
 <details>
