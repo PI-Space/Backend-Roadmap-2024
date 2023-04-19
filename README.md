@@ -762,6 +762,8 @@ ___
   
 📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
 
+📹 [MySQL for Developers In Depth - English ](https://t.co/fYNnXu0nez)
+
 📹 [Advanced Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 
 📖 [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
@@ -769,8 +771,6 @@ ___
 📹 [Designing data intensive applications chapter summary playlist - English ](https://www.youtube.com/playlist?list=PL4KdJM8LzAMecwInbBK5GJ3Anz-ts75RQ)
   
 📹 [Designing data intensive applications chapter summary playlist - Arabic ](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)  
-
-📹 [MySQL for Developers In Depth - English ](https://t.co/fYNnXu0nez)
   
 📹 [NoSQL Database Tutorial](https://www.youtube.com/watch?v=xh4gy1lbL2k)
   
