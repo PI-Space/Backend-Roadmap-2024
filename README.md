@@ -428,12 +428,26 @@ Use this [document](https://thescipub.com/pdf/ajeassp.2012.266.274.pdf) as ref
 
 Use a [design template](https://bootstrapmade.com/ebusiness-bootstrap-corporate-template/download/) and turn it to a complete website:
 
-> note that admin dashboard is required - you may use Orchid or you can use any other dashboard you like.
-> 
+
+
 
 ### 🖇️ Project 3:
 
 Build a website to show your cv where you can add your works, services, portfolio, biography and all to be controlled using a dashboard [you can use any of these templates](https://bootstrapmade.com/bootstrap-resume-cv-templates/) :
+
+</details>
+
+
+<details>
+
+<summary>Admin Panels</summary>
+
+> Note: that admin dashboard is required - you may use Filament or you can use any other dashboard you like.
+>
+
+📹  [Laravel Filament Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv)
+
+📹  [Laravel Filament Roles and Permissions Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
 
 </details>
 
