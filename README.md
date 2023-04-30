@@ -442,7 +442,7 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 <summary>Admin Panels</summary>
 
-> Note: that admin dashboard is required - you may use Filament or you can use any other dashboard you like.
+> Note that admin dashboard is required - you may use Filament or you can use any other dashboard you like.
 >
 
 📹  [Laravel Filament Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl3lxHRw44aKyW0Hq2IXmxGv)
