@@ -479,11 +479,16 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
 
+
+</details>
+
+<details>
+
+ <summary>Learn By Examples & Learn More</summary>
+
 📄 [Laravel Code Examples](https://laraveldaily.com/code-examples)
 
 🖇️ [LaravelDaily Youtube Channel](https://www.youtube.com/c/LaravelDaily) 
-
-
 
 </details>
 
