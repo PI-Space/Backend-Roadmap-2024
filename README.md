@@ -475,11 +475,15 @@ Build a website to show your cv where you can add your works, services, portfoli
   
   <summary>Read about laravel best practices & Tips</summary>
   
-📄 [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
+📄 [Laravel Best Practices Repository](https://github.com/alexeymezenin/laravel-best-practices)
 
 📄 [Laravel Tips Repository](https://github.com/LaravelDaily/laravel-tips)
 
-🖇️ [LaravelDaily](https://www.youtube.com/c/LaravelDaily) 
+📄 [Laravel Code Examples](https://laraveldaily.com/code-examples)
+
+🖇️ [LaravelDaily Youtube Channel](https://www.youtube.com/c/LaravelDaily) 
+
+
 
 </details>
 
