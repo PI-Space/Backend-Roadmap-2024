@@ -302,6 +302,10 @@ OR
 ___
 
 ## Beginner & Intermediate Web Technologies:
+- Choose only one of the following options.
+- Consider the job market requirements when making your choice.
+- While Laravel and PHP are recommended for those in Egypt, it's still essential to search employment websites to determine the current demand for tech stacks before making a decision.
+- Keep in mind that stack requirements may vary in different regions
 
 🔗 [Laravel & PHP](#laravel--php)
 
