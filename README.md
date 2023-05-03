@@ -311,7 +311,7 @@ ___
 
 🔗 [Django & Python](#django--python)
 
-🔗 [ASP.net & C#](#asp.net--c#)
+🔗 [ASP.net & C#](#aspnet--c)
 
 ## Laravel & PHP:
 
