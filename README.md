@@ -865,6 +865,12 @@ ___
 
 🖇️ [Refactoring GURU Design Pattern](https://refactoring.guru/design-patterns)
       
+##### Articles
+
+📄 [SOLID Article - Digital Ocean](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+📄 [Design Patterns - Repo](https://github.com/kamranahmedse/design-patterns-for-humans)
+      
 </details>
 
 <details>
