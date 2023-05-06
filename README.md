@@ -929,6 +929,8 @@ ___
 
 <summary>Interview Questions</summary> 
 
+📹 [Software Engineering Full Mock Interview - freeCodeCamp](https://www.youtube.com/watch?v=1qw5ITr3k9E&t=3613s)
+
 🖇️ [Backend Interview Questions - Fullstack Cafe](https://www.fullstack.cafe/blog/backend-developer-interview-questions)
 
 🖇️ [Laravel Interview Questions - Guru99](https://www.guru99.com/laravel-interview-questions.html)
