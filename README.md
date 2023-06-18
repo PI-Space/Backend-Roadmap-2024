@@ -110,7 +110,7 @@ OR
 #### Videos
 
 1. CS 162, 2019, UC Berkeley - _This is very comprehensive course, it's okay if you study it along with the other materials_.
-📹 [Videos](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+📹 [Videos](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 
 📄 [Resources](https://inst.eecs.berkeley.edu/~cs162/sp21/)
 
