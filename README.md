@@ -185,12 +185,6 @@ OR
 
 🖇️ [VS Code - Recommended for Low Laptop Spec](https://code.visualstudio.com/)
 
-##### Master your editor:
-
-📹 [Phpstorm]( https://laracasts.com/series/how-to-be-awesome-in-phpstorm)
-
-📹 [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
-
 </details>
 
 
@@ -473,7 +467,17 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 <details>
   
-  <summary>Read about laravel best practices & Tips</summary>
+  <summary> Master your editor</summary>
+
+📹 [Phpstorm](https://laracasts.com/series/phpstorm-for-laravel-developers)
+
+📹 [Visual studio code](https://laracasts.com/series/visual-studio-code-for-php-developers) 
+
+</details>
+
+<details>
+  
+  <summary>Read about Laravel best practices & Tips</summary>
   
 📄 [Laravel Best Practices Repository](https://github.com/alexeymezenin/laravel-best-practices)
 
