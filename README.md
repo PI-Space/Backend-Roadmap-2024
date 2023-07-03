@@ -518,8 +518,11 @@ Build a website to show your cv where you can add your works, services, portfoli
 <details>
   
   <summary>Laravel Testing</summary>
+  
+📹 [Laravel Testing - LaravelDaily](https://www.youtube.com/watch?v=BuDger5Ytbc&list=PLdXLsjL7A9k0esh2qNCtUMsGPLUWdLjHp)
 
-📹 [Laravel Testing](https://laracasts.com/series/build-a-laravel-app-with-tdd)
+
+📹 [Laravel Testing - Laracasts](https://laracasts.com/series/build-a-laravel-app-with-tdd)
 
 OR
 
