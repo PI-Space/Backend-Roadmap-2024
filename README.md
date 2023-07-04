@@ -92,7 +92,7 @@ OR
 
 #### Books
 
-📖 [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://iran-lms.com/images/images/Books/PDF/Fundamentals-of-Database-Systems-Pearson-2015-Ramez-Elmasri-Shamkant-B.-Navathe.pdf)
+📖 [First 6 Chapters of Fundamentals of Database Systems Seventh Edition](https://auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf)
 </details>
 
 <details>
