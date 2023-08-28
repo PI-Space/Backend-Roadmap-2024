@@ -366,6 +366,9 @@ OR
 
 📹 [Php & Mysql Ecommerce Project](https://www.youtube.com/watch?v=KLWA2vCERSQ&ab_channel=DailyTuition)
 
+📹 [PHP MVC Assignment Tracker Project](https://www.youtube.com/watch?v=Rkg731t47dc&t=1s&ab_channel=DaveGray)
+
+
 </details>
 
 <details>
