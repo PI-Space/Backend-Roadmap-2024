@@ -271,7 +271,7 @@ OR
 
 📹 [HTML - English](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
-📹 [CSS - English](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+📹 [CSS - English](https://www.youtube.com/watch?v=ieTHC78giGQ&t=4078s&ab_channel=freeCodeCamp.org)
 
 </details>
 
