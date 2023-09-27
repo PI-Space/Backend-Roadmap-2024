@@ -805,7 +805,7 @@ ___
   
   <summary>More Database Systems</summary>
   
-📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf)
+📹 [Intro To Database Systems - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 
 📹 [MySQL for Developers In Depth - English ](https://t.co/fYNnXu0nez)
 
