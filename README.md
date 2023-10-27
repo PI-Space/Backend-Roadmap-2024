@@ -446,6 +446,9 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 📹  [Laravel Filament Roles and Permissions Full Tutorial](https://www.youtube.com/playlist?list=PL6tf8fRbavl2oguMj5NSrQXhsd6ztc8_O)
 
+📹  [FilamentDaily Channel - Filament tips](https://youtube.com/@FilamentDaily?si=14cB-0bj656aXwiX)
+
+
 </details>
 
 <details>
