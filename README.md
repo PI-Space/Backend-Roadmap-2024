@@ -349,13 +349,18 @@ OR
 
 <summary>PHP - MVC </summary>
 
-📹 [Getting to know the basics - English](https://laracasts.com/series/php-for-beginners)
-
-📹 [PHP For Beginners Laracasts 2023-edition - English](https://laracasts.com/series/php-for-beginners-2023-edition)
+📹 [Getting to know the basics - English](https://www.youtube.com/watch?v=q0JhJBYi4sw&ab_channel=QuickProgramming)
 
 OR
 
 📹 [PHP MVC project in arabic](https://www.youtube.com/playlist?list=PL7mt2FDjAkPepYrMofOwTwxQwJSlZ8N-a)
+
+AND
+
+> Note that It is a very important Course, you should see it even you watch either of the previous ones.
+
+
+📹 [PHP For Beginners Laracasts 2023-edition - English ](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 </details>
 
