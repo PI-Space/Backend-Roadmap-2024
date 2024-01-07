@@ -474,6 +474,14 @@ Build a website to show your cv where you can add your works, services, portfoli
 
 </details>
 
+<details>
+
+<summary>Laravel API Projects</summary>
+
+📹 [Laravel MentorSHIP: Travel API - LaravelDaily](https://www.youtube.com/playlist?list=PLdXLsjL7A9k2utMAieXUnUP8zyxaDA3mP)
+
+
+</details>
 
 <details>
 
