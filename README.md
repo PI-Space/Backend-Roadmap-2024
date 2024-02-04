@@ -399,9 +399,11 @@ AND
 
 1. 📽️ [Backend Bootcamp: Laravel & Backend Introducion - Eyad Hamza](https://www.youtube.com/playlist?list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0)
 
-2. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+2.  📹 [PHP Laravel Course - Build a Blog Website - Arabic](https://www.youtube.com/watch?v=Q4z6U23cTVc)
 
-3. 📹 [Laravel From Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
+3. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+
+4. 📹 [Laravel From Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
 
 
 </details>
