@@ -576,6 +576,7 @@ OR
 
 📹 [Laravel Package Development](https://www.youtube.com/playlist?list=PLpzy7FIRqpGBQ_aqz_hXDBch1aAA-lmgu)
 
+
 </details>
 
 <details>
@@ -583,6 +584,9 @@ OR
   <summary>Useful laravel packages</summary>
 
 📹 [Laravel packages](https://www.youtube.com/playlist?list=PLEhEHUEU3x5pcQJHE8WBLqlHt2o3q5O-f)
+
+📹 [Small Laravel Packages Big Impact](https://laracasts.com/series/small-laravel-packages-big-impact)
+
 
 
 </details>
