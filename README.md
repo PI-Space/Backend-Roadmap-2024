@@ -709,6 +709,8 @@ OR
 
   
 📹 [C# - FreeCodeCamp - English](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+
+📹 [Learn C# Programming – Full Course with Mini-Projects - FreeCodeCamp - English](https://www.youtube.com/watch?v=GhQdlIFylQ8)
   
 📹 [C# - Mosh - English](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
   
