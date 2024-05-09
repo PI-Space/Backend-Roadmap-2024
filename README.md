@@ -1,4 +1,4 @@
-# Backend Roadmap 2023
+# Backend Roadmap 2024
 ___
 
 ## Video for Roadmap Clarification
@@ -834,7 +834,7 @@ ___
 
 📹 [MySQL for Developers In Depth - English ](https://t.co/fYNnXu0nez)
 
-📹 [Advanced Database Systems - CMU](https://www.youtube.com/watch?v=LWS8LEQAUVc&list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
+📹 [Advanced Database Systems - CMU](https://www.youtube.com/watch?v=NLycrsJ1jI8&list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ&pp=iAQB)
 
 📖 [Designing Data-Intensive Applications (book) - Graduate level)](https://github.com/Yang-Yanxiang/Designing-Data-Intensive-Applications/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
   
