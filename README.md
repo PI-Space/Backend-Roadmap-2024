@@ -404,7 +404,7 @@ AND
 
 2.  📹 [PHP Laravel Course - Build a Blog Website - Arabic](https://www.youtube.com/watch?v=Q4z6U23cTVc)
 
-3. 📹 [laravel 8 from scratch](https://laracasts.com/series/laravel-8-from-scratch)
+3. 📹 [laravel 11 from scratch](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 4. 📹 [Laravel From Scratch](https://www.youtube.com/watch?v=376vZ1wNYPA)
 
