@@ -740,6 +740,9 @@ OR
 📹 [C# Full Course - Learn C# 10 and .NET 6](https://www.youtube.com/watch?v=q_F4PyW8GTg)
   
 📹 [Introduction to ASP.NET Core MVC in C# plus LOTS of Tips - IAmTimCorey](https://www.youtube.com/watch?v=1ck9LIBxO14)
+
+📹 [ASP.NET Core Tutorial – Beginner to Advanced Projects - freeCodeCamp](https://www.youtube.com/watch?v=6SAFgcMie4U)
+
   
 </details>
 
