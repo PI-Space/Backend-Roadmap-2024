@@ -150,7 +150,8 @@ _you should never start coding without first thinking and modeling what you will
   
 #### Articles
 📄 [Software Requirements Analysis with Example](https://www.guru99.com/learn-software-requirements-analysis-with-case-study.html)
-[User Stories | Examples and Template | Atlassian](https://www.atlassian.com/agile/project-management/user-stories#:~:text=User%20stories%20describe%20the%20why%20and%20the%20what,often%20expressed%20as%20persona%20%2B%20need%20%2B%20purpose.)
+
+📄 [User Stories | Examples and Template | Atlassian](https://www.atlassian.com/agile/project-management/user-stories#:~:text=User%20stories%20describe%20the%20why%20and%20the%20what,often%20expressed%20as%20persona%20%2B%20need%20%2B%20purpose.)
 #### Videos
 
 📹 [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
