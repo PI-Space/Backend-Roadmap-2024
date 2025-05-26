@@ -122,6 +122,10 @@ OR
 
 📖 [OPERATING SYSTEMS THREE EASY PIECES - Entry Level](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
+OR
+
+📖 [MODERN OPERATING SYSTEMS By Andrew S. Tanenbaum - Entry Level](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)
+
 </details>
 
 ___
