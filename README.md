@@ -103,7 +103,24 @@ OR
 📹 [Software Analysis & Design Arabic Course](https://www.youtube.com/playlist?list=PLMzaNeHCFdm-0QIV9CuFZpIi_4-nKH4Xi)
 
  </details>
- 
+
+ <details>
+      <summary>Introduction to Computer Networking</summary>
+
+#### Videos
+
+📹 [FREE CCNA 200-301 // Complete Course - English](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P).
+
+📹 [Fundamentals of Networking for Effective Backend Design - English (Udemy) - Highly recommended](https://www.udemy.com/course/fundamentals-of-networking-for-effective-backend-design/?srsltid=AfmBOord86WHoOnR3c9cEFWDHhuDsZNBwvMFtXr_5GTegSNSGfFvCt3f&couponCode=24T7MT260525G2).
+
+📹 [Computer Networks - Arabic (Academic)](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp).
+
+#### Books
+
+📖 [Computer Networking: A Top-Down Approach, 7th Edition](https://www.ucg.ac.me/skladiste/blog_44233/objava_64433/fajlovi/Computer%20Networking%20_%20A%20Top%20Down%20Approach,%207th,%20converted.pdf).
+  
+</details>
+
 <details>
   <summary>Introduction to Operating Systems</summary>
   
@@ -121,6 +138,10 @@ OR
 OR
 
 📖 [OPERATING SYSTEMS THREE EASY PIECES - Entry Level](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+OR
+
+📖 [MODERN OPERATING SYSTEMS By Andrew S. Tanenbaum - Entry Level](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf)
 
 </details>
 
