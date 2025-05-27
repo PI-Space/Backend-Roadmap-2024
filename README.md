@@ -145,6 +145,13 @@ OR
 
 </details>
 
+<details>
+  <summary>(Optional) The C Programming Language – Kernighan & Ritchie</summary>
+  
+  📖 [The C Programming Language, 2nd Edition](https://www.cs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/Docs/C-book.pdf)
+  
+  **Why It's Highly Recommended:** The K&R book provides the foundational understanding of low-level memory management and system-level programming essential for truly grasping core computer science concepts. 
+</details>
 ___
 
 ## Beginner General 
@@ -890,6 +897,21 @@ ___
 📄 [Lecture Notes](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf)
 
   
+</details>
+
+<details>
+  <summary>(Optional) CS:APP – CMU Course + Book</summary>
+
+  📹 [Computer Systems – CMU ICS (CS:APP)](https://www.youtube.com/playlist?list=PLbY-cFJNzq7z_tQGq-rxtq_n2QQDf5vnM)  
+  📖 [Computer Systems: A Programmer’s Perspective (CS:APP)](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf)  
+
+  **Prerequisites:**  
+  - Good C programming knowledge (K&R book recommended)  
+  - Comfortable with Linux command-line basics
+
+  **Why:**  
+  - This CMU course and the CS:APP book help you understand how computers truly work, covering everything from how your code becomes machine instructions and uses memory, to how programs load and talk to the operating system.
+
 </details>
 
 <details>
