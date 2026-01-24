@@ -987,6 +987,8 @@ ___
 <summary>  Cloud </summary> 
 
 📹 [AWS - Free Code Camp](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+
+📹 [AWS Cloud Practitioner CLF02 Arabic كورس بالعربي كامل]([https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org](https://www.youtube.com/playlist?list=PLZmPGUyBFvUqo76bXGnXq9EofsaV2d8K5))
         
 </details>
 
